@@ -66,7 +66,7 @@ class ApiPlugger:
             self.download_tools.config, query_namespace[API]
         )
         api_class = getattr(
-            importlib.import_module(f"{pygetpapers1}.repository.{self.library_name}"),
+            importlib.import_module(f"pygetpapers1.repository.{self.library_name}"),
             self.class_name,
         )
         self.api = api_class()

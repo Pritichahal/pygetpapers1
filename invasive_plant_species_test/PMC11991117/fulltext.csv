@@ -1,0 +1,47 @@
+,Info_By_EuropePMC_Api
+downloaded,True
+htmlmade,False
+id,40219099
+source,MED
+pmid,40219099
+pmcid,PMC11991117
+fullTextIdList,{'fullTextId': 'PMC11991117'}
+doi,10.3390/plants14071031
+title,The Use and Management of Invasive Plants.
+authorString,"Poljuha D, Sladonja B."
+authorList,"{'author': [{'fullName': 'Poljuha D', 'firstName': 'Danijela', 'lastName': 'Poljuha', 'initials': 'D', 'authorId': {'@type': 'ORCID', '#text': '0000-0002-6177-6932'}, 'authorAffiliationDetailsList': {'authorAffiliation': {'affiliation': 'Department of Agriculture and Nutrition, Institute of Agriculture and Tourism, Karla Huguesa 8, 52440 Poreč, Croatia.'}}}, {'fullName': 'Sladonja B', 'firstName': 'Barbara', 'lastName': 'Sladonja', 'initials': 'B', 'authorId': {'@type': 'ORCID', '#text': '0000-0003-0967-1268'}, 'authorAffiliationDetailsList': {'authorAffiliation': {'affiliation': 'Department of Agriculture and Nutrition, Institute of Agriculture and Tourism, Karla Huguesa 8, 52440 Poreč, Croatia.'}}}]}"
+authorIdList,"{'authorId': [{'@type': 'ORCID', '#text': '0000-0002-6177-6932'}, {'@type': 'ORCID', '#text': '0000-0003-0967-1268'}]}"
+journalInfo,"{'issue': '7', 'volume': '14', 'journalIssueId': '3929102', 'dateOfPublication': '2025 Mar', 'monthOfPublication': '3', 'yearOfPublication': '2025', 'printPublicationDate': '2025-03-01', 'journal': {'title': 'Plants (Basel, Switzerland)', 'ISOAbbreviation': 'Plants (Basel)', 'medlineAbbreviation': 'Plants (Basel)', 'NLMid': '101596181', 'ISSN': '2223-7747', 'ESSN': '2223-7747'}}"
+pubYear,2025
+pageInfo,1031
+abstractText,"Invasive plant species pose significant challenges to biodiversity, ecosystem stability, and economic sustainability, such as disrupting native flora, altering soil chemistry, and creating ecological imbalances [...]."
+affiliation,"Department of Agriculture and Nutrition, Institute of Agriculture and Tourism, Karla Huguesa 8, 52440 Poreč, Croatia."
+publicationStatus,epublish
+language,eng
+pubModel,Electronic
+pubTypeList,{'pubType': 'Editorial'}
+fullTextUrlList,"{'fullTextUrl': [{'availability': 'Subscription required', 'availabilityCode': 'S', 'documentStyle': 'doi', 'site': 'DOI', 'url': 'https://doi.org/10.3390/plants14071031'}, {'availability': 'Open access', 'availabilityCode': 'OA', 'documentStyle': 'html', 'site': 'Europe_PMC', 'url': 'https://europepmc.org/articles/PMC11991117'}, {'availability': 'Open access', 'availabilityCode': 'OA', 'documentStyle': 'pdf', 'site': 'Europe_PMC', 'url': 'https://europepmc.org/articles/PMC11991117?pdf=render'}]}"
+isOpenAccess,Y
+inEPMC,Y
+inPMC,Y
+hasPDF,Y
+hasBook,N
+hasSuppl,N
+citedByCount,0
+hasData,N
+hasReferences,Y
+hasTextMinedTerms,Y
+hasDbCrossReferences,N
+hasLabsLinks,N
+license,cc by
+hasEvaluations,N
+authMan,N
+epmcAuthMan,N
+nihAuthMan,N
+hasTMAccessionNumbers,N
+dateOfCreation,2025-04-12
+firstIndexDate,2025-04-13
+fullTextReceivedDate,2025-04-15
+dateOfRevision,2025-04-14
+electronicPublicationDate,2025-03-26
+firstPublicationDate,2025-03-26

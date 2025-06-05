@@ -1,0 +1,50 @@
+,Info_By_EuropePMC_Api
+downloaded,True
+htmlmade,False
+id,40364394
+source,MED
+pmid,40364394
+pmcid,PMC12073629
+fullTextIdList,{'fullTextId': 'PMC12073629'}
+doi,10.3390/plants14091355
+title,Self-Inhibition Effects of Litter-Mediated Plant-Phyllosphere Feedback on Seedling Growth in Invasive and Native Congeneric Species.
+authorString,"Cao K, Shi P, Xu X, Wang J."
+authorList,"{'author': [{'fullName': 'Cao K', 'firstName': 'Kaili', 'lastName': 'Cao', 'initials': 'K', 'authorId': {'@type': 'ORCID', '#text': '0000-0002-3771-4213'}, 'authorAffiliationDetailsList': {'authorAffiliation': {'affiliation': 'Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing 100101, China.'}}}, {'fullName': 'Shi P', 'firstName': 'Peili', 'lastName': 'Shi', 'initials': 'P', 'authorId': {'@type': 'ORCID', '#text': '0000-0002-1120-0003'}, 'authorAffiliationDetailsList': {'authorAffiliation': {'affiliation': 'Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing 100101, China.'}}}, {'fullName': 'Xu X', 'firstName': 'Xingliang', 'lastName': 'Xu', 'initials': 'X', 'authorId': {'@type': 'ORCID', '#text': '0000-0003-2869-4932'}, 'authorAffiliationDetailsList': {'authorAffiliation': {'affiliation': 'Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing 100101, China.'}}}, {'fullName': 'Wang J', 'firstName': 'Jingsheng', 'lastName': 'Wang', 'initials': 'J', 'authorAffiliationDetailsList': {'authorAffiliation': {'affiliation': 'Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing 100101, China.'}}}]}"
+authorIdList,"{'authorId': [{'@type': 'ORCID', '#text': '0000-0002-1120-0003'}, {'@type': 'ORCID', '#text': '0000-0002-3771-4213'}, {'@type': 'ORCID', '#text': '0000-0003-2869-4932'}]}"
+dataLinksTagsList,{'dataLinkstag': 'supporting_data'}
+journalInfo,"{'issue': '9', 'volume': '14', 'journalIssueId': '3942008', 'dateOfPublication': '2025 Apr', 'monthOfPublication': '4', 'yearOfPublication': '2025', 'printPublicationDate': '2025-04-01', 'journal': {'title': 'Plants (Basel, Switzerland)', 'ISOAbbreviation': 'Plants (Basel)', 'medlineAbbreviation': 'Plants (Basel)', 'NLMid': '101596181', 'ISSN': '2223-7747', 'ESSN': '2223-7747'}}"
+pubYear,2025
+pageInfo,1355
+abstractText,"Plant-phyllosphere feedback (PPF) is an ecological process in which phyllosphere microbiota, originating from plant litter, are transmitted via aerosols and subsequently influence the growth of conspecific or heterospecific plants. However, the cross-species generality of this mechanism and its role in invasive plant success remain to be fully elucidated. This study systematically examined PPF effects using three invasive/native congeneric plant pairs from distinct families (Phytolaccaceae, Asteraceae, and Amaranthaceae) in Jiangxi Province, China. Key findings include the following: (1) Wide conspecific negative feedback across families, with four of six species exhibiting 6.2-12.7% biomass reduction under their own litter treatments (<i>p</i> < 0.05). (2) Comparable feedback intensity between invasive and native species, as indicated by average pairwise indices (invasive I = -0.05 vs. native I = -0.04; <i>p</i> = 0.15). Notably, the invasive species <i>Phytolacca americana</i> uniquely showed a positive biomass response (+7.1%), though underlying mechanisms (phytochemical or microbial) were not investigated. (3) Lack of correlation between PPF strength and plant functional traits or phylogenetic distance, as indicated by Mantel tests (<i>p</i> > 0.8), in contrast to the trait/phylogeny associations commonly observed in soil feedback systems. This study provided the first evidence of PPF universality across multiple plant families-previously documented only within Asteraceae-and highlights the potential microbial-mediated advantages in plant invasions. Future research should integrate spatiotemporal metagenomic and metabolomic approaches to decipher the dynamic pathogen/microbe networks and their phytochemical interactions."
+affiliation,"Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing 100101, China."
+publicationStatus,epublish
+language,eng
+pubModel,Electronic
+pubTypeList,"{'pubType': ['research-article', 'Journal Article']}"
+keywordList,"{'keyword': ['Invasion ecology', 'Functional Traits', 'Pathogen Escape', 'Conspecific Negative Feedback', 'Litter-mediated', 'Plant-phyllosphere Feedback']}"
+fullTextUrlList,"{'fullTextUrl': [{'availability': 'Subscription required', 'availabilityCode': 'S', 'documentStyle': 'doi', 'site': 'DOI', 'url': 'https://doi.org/10.3390/plants14091355'}, {'availability': 'Open access', 'availabilityCode': 'OA', 'documentStyle': 'html', 'site': 'Europe_PMC', 'url': 'https://europepmc.org/articles/PMC12073629'}, {'availability': 'Open access', 'availabilityCode': 'OA', 'documentStyle': 'pdf', 'site': 'Europe_PMC', 'url': 'https://europepmc.org/articles/PMC12073629?pdf=render'}]}"
+isOpenAccess,Y
+inEPMC,Y
+inPMC,Y
+hasPDF,Y
+hasBook,N
+hasSuppl,N
+citedByCount,0
+hasData,Y
+hasReferences,Y
+hasTextMinedTerms,Y
+hasDbCrossReferences,N
+hasLabsLinks,N
+license,cc by
+hasEvaluations,N
+authMan,N
+epmcAuthMan,N
+nihAuthMan,N
+hasTMAccessionNumbers,Y
+tmAccessionTypeList,{'accessionType': 'gen'}
+dateOfCreation,2025-05-14
+firstIndexDate,2025-05-21
+fullTextReceivedDate,2025-05-16
+dateOfRevision,2025-05-17
+electronicPublicationDate,2025-04-30
+firstPublicationDate,2025-04-30

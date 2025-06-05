@@ -1,0 +1,52 @@
+,Info_By_EuropePMC_Api
+downloaded,True
+htmlmade,False
+id,40188220
+source,MED
+pmid,40188220
+pmcid,PMC11972311
+fullTextIdList,{'fullTextId': 'PMC11972311'}
+doi,10.1038/s41598-025-95582-x
+title,Early warning of two emerging plant invaders in Europe.
+authorString,"Bylak A, Bobiec A, Bobiec M, Kukuła K, Low T."
+authorList,"{'author': [{'fullName': 'Bylak A', 'firstName': 'Aneta', 'lastName': 'Bylak', 'initials': 'A', 'authorAffiliationDetailsList': {'authorAffiliation': {'affiliation': 'Department of Ecology and Environmental Protection, University of Rzeszów, Rzeszów, Poland. abylak@ur.edu.pl.'}}}, {'fullName': 'Bobiec A', 'firstName': 'Andrzej', 'lastName': 'Bobiec', 'initials': 'A', 'authorAffiliationDetailsList': {'authorAffiliation': {'affiliation': 'Department of Nature Conservation and Landscape Ecology, University of Rzeszów, Rzeszów, Poland.'}}}, {'fullName': 'Bobiec M', 'firstName': 'Mateusz', 'lastName': 'Bobiec', 'initials': 'M', 'authorAffiliationDetailsList': {'authorAffiliation': {'affiliation': 'Department of Nature Conservation and Landscape Ecology, University of Rzeszów, Rzeszów, Poland.'}}}, {'fullName': 'Kukuła K', 'firstName': 'Krzysztof', 'lastName': 'Kukuła', 'initials': 'K', 'authorAffiliationDetailsList': {'authorAffiliation': {'affiliation': 'Department of Ecology and Environmental Protection, University of Rzeszów, Rzeszów, Poland.'}}}, {'fullName': 'Low T', 'firstName': 'Tim', 'lastName': 'Low', 'initials': 'T', 'authorAffiliationDetailsList': {'authorAffiliation': {'affiliation': 'Invasive Species Council, Katoomba, Australia.'}}}]}"
+dataLinksTagsList,{'dataLinkstag': 'altmetrics'}
+journalInfo,"{'issue': '1', 'volume': '15', 'journalIssueId': '3920966', 'dateOfPublication': '2025 Apr', 'monthOfPublication': '4', 'yearOfPublication': '2025', 'printPublicationDate': '2025-04-01', 'journal': {'title': 'Scientific reports', 'ISOAbbreviation': 'Sci Rep', 'medlineAbbreviation': 'Sci Rep', 'NLMid': '101563288', 'ISSN': '2045-2322', 'ESSN': '2045-2322'}}"
+pubYear,2025
+pageInfo,11666
+abstractText,"The pool of invasive ornamental plants keeps expanding, and one of the best studied plant invasion habitats is the riparian zone. Europe has no native Miscanthus spp. or bamboos, which are popular garden plants. In 2022-2024 we observed Bisset bamboo (Phyllostachys bissetii) and giant miscanthus (Miscanthus × giganteus) naturalizing in the riparian zones of two rivers of the Vistula River basin (Poland). Bisset bamboo has not been recorded before in the wild in Europe and giant miscanthus has not been reported before as naturalized in Europe. We describe their present habitats and invasive potential, to alert others to the prospect of spread in Europe. Examples from other parts of world indicate that Phyllostachys spp. invasive running bamboo has a tendency to spread aggressively. Because we only located single plants our species qualify as 'casuals', but we mention them out of a concern that these species are establishing more widely or will soon do so. Our observations fit an ""accelerated trend"" in exotic plant invasion in Europe, in particular, of escaped ornamental plants. Based on information about the ecology of both species, their popularity in horticulture, and our observations, we speculate that giant miscanthus and Bisset bamboo may become new European plant invaders. Both species should be mechanically removed. There is an urgent need to raise awareness among gardeners, hobbyists, plant sellers and importers, about environmental risk from spread of invasive plants. It is concerning that seedlings and seeds of other species of the genera Miscanthus and Phyllostachys, which have naturalised in several European countries, are available in horticulture. Bioinvasion is easier to control if there is early detection and a rapid response."
+affiliation,"Department of Ecology and Environmental Protection, University of Rzeszów, Rzeszów, Poland. abylak@ur.edu.pl."
+publicationStatus,epublish
+language,eng
+pubModel,Electronic
+pubTypeList,"{'pubType': ['research-article', 'Journal Article']}"
+grantsList,"{'grant': {'grantId': 'ZEOS/UPB/2022-2024 funds', 'agency': 'Polish Ministry of Education and Science', 'orderIn': '0'}}"
+meshHeadingList,"{'meshHeading': [{'majorTopic_YN': 'Y', 'descriptorName': 'Poaceae', 'meshQualifierList': {'meshQualifier': [{'abbreviation': 'GD', 'qualifierName': 'growth & development', 'majorTopic_YN': 'N'}, {'abbreviation': 'PH', 'qualifierName': 'physiology', 'majorTopic_YN': 'N'}]}}, {'majorTopic_YN': 'N', 'descriptorName': 'Ecosystem'}, {'majorTopic_YN': 'N', 'descriptorName': 'Europe'}, {'majorTopic_YN': 'N', 'descriptorName': 'Poland'}, {'majorTopic_YN': 'Y', 'descriptorName': 'Introduced Species'}]}"
+keywordList,"{'keyword': ['River Basins', 'Miscanthus\u2009×\u2009giganteus', 'Ecosystem Protection', 'Phyllostachys Bissetii', 'Invasion Corridor', 'Running Bamboo']}"
+subsetList,"{'subset': {'code': 'IM', 'name': 'Index Medicus'}}"
+fullTextUrlList,"{'fullTextUrl': [{'availability': 'Open access', 'availabilityCode': 'OA', 'documentStyle': 'doi', 'site': 'Unpaywall', 'url': 'https://doi.org/10.1038/s41598-025-95582-x'}, {'availability': 'Subscription required', 'availabilityCode': 'S', 'documentStyle': 'doi', 'site': 'DOI', 'url': 'https://doi.org/10.1038/s41598-025-95582-x'}, {'availability': 'Open access', 'availabilityCode': 'OA', 'documentStyle': 'html', 'site': 'Europe_PMC', 'url': 'https://europepmc.org/articles/PMC11972311'}, {'availability': 'Open access', 'availabilityCode': 'OA', 'documentStyle': 'pdf', 'site': 'Europe_PMC', 'url': 'https://europepmc.org/articles/PMC11972311?pdf=render'}]}"
+isOpenAccess,Y
+inEPMC,Y
+inPMC,Y
+hasPDF,Y
+hasBook,N
+hasSuppl,Y
+citedByCount,0
+hasData,Y
+hasReferences,Y
+hasTextMinedTerms,Y
+hasDbCrossReferences,N
+hasLabsLinks,Y
+license,cc by-nc-nd
+hasEvaluations,N
+authMan,N
+epmcAuthMan,N
+nihAuthMan,N
+hasTMAccessionNumbers,N
+dateOfCompletion,2025-05-16
+dateOfCreation,2025-04-05
+firstIndexDate,2025-04-07
+fullTextReceivedDate,2025-04-14
+dateOfRevision,2025-05-16
+electronicPublicationDate,2025-04-05
+firstPublicationDate,2025-04-05

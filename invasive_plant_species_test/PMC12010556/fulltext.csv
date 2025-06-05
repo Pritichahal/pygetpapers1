@@ -1,0 +1,52 @@
+,Info_By_EuropePMC_Api
+downloaded,True
+htmlmade,False
+id,40259227
+source,MED
+pmid,40259227
+pmcid,PMC12010556
+fullTextIdList,{'fullTextId': 'PMC12010556'}
+doi,10.1186/s12870-025-06556-0
+title,The invasion of Cassytha filiformis accelerated the litter decomposition of native plant communities in small tropical coral islands.
+authorString,"Li Q, Liu X, Liu K, Ren H, Jian S, Lu H, Cheng Y, Zou Q, Huang Y."
+authorList,"{'author': [{'fullName': 'Li Q', 'firstName': 'Qiang', 'lastName': 'Li', 'initials': 'Q', 'authorAffiliationDetailsList': {'authorAffiliation': {'affiliation': 'School of Tropical Medicine, Hainan Medical University, Haikou, 571199, China.'}}}, {'fullName': 'Liu X', 'firstName': 'Xiao', 'lastName': 'Liu', 'initials': 'X', 'authorAffiliationDetailsList': {'authorAffiliation': {'affiliation': 'School of Geography and Tourism, Qilu Normal University, Jinan, 250200, China.'}}}, {'fullName': 'Liu K', 'firstName': 'Ke', 'lastName': 'Liu', 'initials': 'K', 'authorAffiliationDetailsList': {'authorAffiliation': {'affiliation': 'CAS Engineering Laboratory for Vegetation Ecosystem Restoration On Islands and Coastal Zones & Key Laboratory of Vegetation Restoration and Management of Degraded Ecosystems, South China Botanical Garden, Chinese Academy of Sciences, Guangzhou, 510650, China.'}}}, {'fullName': 'Ren H', 'firstName': 'Hai', 'lastName': 'Ren', 'initials': 'H', 'authorAffiliationDetailsList': {'authorAffiliation': {'affiliation': 'CAS Engineering Laboratory for Vegetation Ecosystem Restoration On Islands and Coastal Zones & Key Laboratory of Vegetation Restoration and Management of Degraded Ecosystems, South China Botanical Garden, Chinese Academy of Sciences, Guangzhou, 510650, China.'}}}, {'fullName': 'Jian S', 'firstName': 'Shuguang', 'lastName': 'Jian', 'initials': 'S', 'authorAffiliationDetailsList': {'authorAffiliation': {'affiliation': 'CAS Engineering Laboratory for Vegetation Ecosystem Restoration On Islands and Coastal Zones & Key Laboratory of Vegetation Restoration and Management of Degraded Ecosystems, South China Botanical Garden, Chinese Academy of Sciences, Guangzhou, 510650, China.'}}}, {'fullName': 'Lu H', 'firstName': 'Hongfang', 'lastName': 'Lu', 'initials': 'H', 'authorAffiliationDetailsList': {'authorAffiliation': {'affiliation': 'CAS Engineering Laboratory for Vegetation Ecosystem Restoration On Islands and Coastal Zones & Key Laboratory of Vegetation Restoration and Management of Degraded Ecosystems, South China Botanical Garden, Chinese Academy of Sciences, Guangzhou, 510650, China.'}}}, {'fullName': 'Cheng Y', 'firstName': 'Yuanhao', 'lastName': 'Cheng', 'initials': 'Y', 'authorAffiliationDetailsList': {'authorAffiliation': {'affiliation': 'CAS Engineering Laboratory for Vegetation Ecosystem Restoration On Islands and Coastal Zones & Key Laboratory of Vegetation Restoration and Management of Degraded Ecosystems, South China Botanical Garden, Chinese Academy of Sciences, Guangzhou, 510650, China.'}}}, {'fullName': 'Zou Q', 'firstName': 'Qingchi', 'lastName': 'Zou', 'initials': 'Q', 'authorAffiliationDetailsList': {'authorAffiliation': {'affiliation': 'Liaoning Natural Forest Protection Center, Shenyang, 110036, China.'}}}, {'fullName': 'Huang Y', 'firstName': 'Yao', 'lastName': 'Huang', 'initials': 'Y', 'authorAffiliationDetailsList': {'authorAffiliation': {'affiliation': 'Ministry of Education Key Laboratory for Genetics and Germplasm Innovation of Tropical Special Forest Trees and Ornamental Plants, School of Ecology, Hainan University, Haikou, 570228, China. 996397@hainanu.edu.cn.'}}}]}"
+journalInfo,"{'issue': '1', 'volume': '25', 'journalIssueId': '3920996', 'dateOfPublication': '2025 Apr', 'monthOfPublication': '4', 'yearOfPublication': '2025', 'printPublicationDate': '2025-04-01', 'journal': {'title': 'BMC plant biology', 'ISOAbbreviation': 'BMC Plant Biol', 'medlineAbbreviation': 'BMC Plant Biol', 'NLMid': '100967807', 'ISSN': '1471-2229', 'ESSN': '1471-2229'}}"
+pubYear,2025
+pageInfo,504
+abstractText,"<h4>Background</h4>Plant invasion affects plant community composition, biodiversity, and nutrient cycling in terrestrial ecosystems, particularly in vulnerable ecosystems. As an invasive parasitic plant, Cassytha filiformis has caused extensive damage to the native vegetation of the Paracel Islands. However, the effects of C. filiformis invasion on litter decomposition and nutrient release in native plant communities remain unclear. We conducted an in-situ decomposition experiment in native plant communities on a coral island to explore the litter decomposition dynamics varying across enzyme activities, soil properties and C. filiformis invasive degrees.<h4>Results</h4>The mass loss of litter was determined during the decomposition process. The data showed that litter mass loss under severe invasion was significantly lower than in uninvaded sites after nine months of decomposition. The invasion of C. filiformis accelerated the nitrogen release and lignin decomposition with increased litter quality and polyphenol oxidase activity. Besides, soil phosphorus availability and potassium content also induced the oxidase activity. Meanwhile, the decomposition of litter organic carbon was delayed because β-1, 4-glucosidase activity was low in the first six months. Besides, peroxidase activity maintained a high level in invasive plots, indicating that the residues of C. filiformis may have allelopathy.<h4>Conclusion</h4>Our results suggested that the invasion of C. filiformis accelerated litter mass loss and element release on coral islands by regulating litter quality and enzyme activity. However, the short-term rapid litter decomposition may result in nutrient loss, which is not conducive to the growth of native plants."
+affiliation,"School of Tropical Medicine, Hainan Medical University, Haikou, 571199, China."
+publicationStatus,epublish
+language,eng
+pubModel,Electronic
+pubTypeList,"{'pubType': ['research-article', 'Journal Article']}"
+grantsList,"{'grant': [{'grantId': '32101255', 'agency': 'National Natural Science Foundation of China for Young Scholars', 'orderIn': '0'}, {'grantId': '2021-400', 'agency': 'National Key Research and Development Program of China', 'orderIn': '0'}, {'grantId': '32101369', 'agency': 'National Natural Science Foundation of China for Young Scholars', 'orderIn': '0'}, {'grantId': '425QN238', 'agency': 'Hainan Provincial Natural Science Foundation of China', 'orderIn': '0'}, {'grantId': 'XJ2500000632', 'agency': 'Scientific Research Foundation of Hainan University', 'orderIn': '0'}]}"
+meshHeadingList,"{'meshHeading': [{'majorTopic_YN': 'N', 'descriptorName': 'Plant Leaves', 'meshQualifierList': {'meshQualifier': {'abbreviation': 'ME', 'qualifierName': 'metabolism', 'majorTopic_YN': 'N'}}}, {'majorTopic_YN': 'N', 'descriptorName': 'Nitrogen', 'meshQualifierList': {'meshQualifier': {'abbreviation': 'ME', 'qualifierName': 'metabolism', 'majorTopic_YN': 'N'}}}, {'majorTopic_YN': 'N', 'descriptorName': 'Phosphorus', 'meshQualifierList': {'meshQualifier': {'abbreviation': 'ME', 'qualifierName': 'metabolism', 'majorTopic_YN': 'N'}}}, {'majorTopic_YN': 'N', 'descriptorName': 'Soil', 'meshQualifierList': {'meshQualifier': {'abbreviation': 'CH', 'qualifierName': 'chemistry', 'majorTopic_YN': 'N'}}}, {'majorTopic_YN': 'N', 'descriptorName': 'Ecosystem'}, {'majorTopic_YN': 'Y', 'descriptorName': 'Introduced Species'}, {'majorTopic_YN': 'N', 'descriptorName': 'Islands'}]}"
+keywordList,"{'keyword': ['micro-habitat', 'Plant-soil Feedback', 'Hemi-parasite', 'Invasive Degree', 'Litter Nutrient Release']}"
+chemicalList,"{'chemical': [{'name': 'Soil', 'registryNumber': '0'}, {'name': 'Nitrogen', 'registryNumber': 'N762921K75'}, {'name': 'Phosphorus', 'registryNumber': '27YLU75U4W'}]}"
+subsetList,"{'subset': {'code': 'IM', 'name': 'Index Medicus'}}"
+fullTextUrlList,"{'fullTextUrl': [{'availability': 'Subscription required', 'availabilityCode': 'S', 'documentStyle': 'doi', 'site': 'DOI', 'url': 'https://doi.org/10.1186/s12870-025-06556-0'}, {'availability': 'Open access', 'availabilityCode': 'OA', 'documentStyle': 'html', 'site': 'Europe_PMC', 'url': 'https://europepmc.org/articles/PMC12010556'}, {'availability': 'Open access', 'availabilityCode': 'OA', 'documentStyle': 'pdf', 'site': 'Europe_PMC', 'url': 'https://europepmc.org/articles/PMC12010556?pdf=render'}]}"
+isOpenAccess,Y
+inEPMC,Y
+inPMC,Y
+hasPDF,Y
+hasBook,N
+hasSuppl,Y
+citedByCount,0
+hasData,Y
+hasReferences,Y
+hasTextMinedTerms,Y
+hasDbCrossReferences,N
+hasLabsLinks,N
+license,cc by-nc-nd
+hasEvaluations,N
+authMan,N
+epmcAuthMan,N
+nihAuthMan,N
+hasTMAccessionNumbers,N
+dateOfCompletion,2025-04-21
+dateOfCreation,2025-04-21
+firstIndexDate,2025-04-23
+fullTextReceivedDate,2025-04-25
+dateOfRevision,2025-04-24
+electronicPublicationDate,2025-04-21
+firstPublicationDate,2025-04-21

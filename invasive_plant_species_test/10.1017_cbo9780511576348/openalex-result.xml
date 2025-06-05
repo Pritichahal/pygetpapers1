@@ -1,0 +1,919 @@
+<root>
+   <abstract_inverted_index>
+      <Cost-efficient>13</Cost-efficient>
+      <Sustainable>64</Sustainable>
+      <The>77</The>
+      <This>40</This>
+      <This>105</This>
+      <Weeds>0</Weeds>
+      <a>2</a>
+      <a>17</a>
+      <a>107</a>
+      <across>87</across>
+      <agricultural>6</agricultural>
+      <aim>78</aim>
+      <and>24</and>
+      <and>46</and>
+      <and>91</and>
+      <and>102</and>
+      <and>112</and>
+      <aquatic.>63</aquatic.>
+      <are>1</are>
+      <arthropods>74</arthropods>
+      <assessment>96</assessment>
+      <assist>93</assist>
+      <biological>14</biological>
+      <biological>65</biological>
+      <biological>118</biological>
+      <book>41</book>
+      <can>33</can>
+      <cause>34</cause>
+      <chemical>30</chemical>
+      <concerned>115</concerned>
+      <constraint>4</constraint>
+      <control>15</control>
+      <control>66</control>
+      <control>119</control>
+      <covers>42</covers>
+      <damage>36</damage>
+      <developing>11</developing>
+      <discussed.>76</discussed.>
+      <distribution_>45</distribution_>
+      <each>68</each>
+      <ecological>82</ecological>
+      <ecology>47</ecology>
+      <economic>103</economic>
+      <effects>28</effects>
+      <environment.>39</environment.>
+      <fewer>26</fewer>
+      <for>85</for>
+      <for>110</for>
+      <from>58</from>
+      <habitats>57</habitats>
+      <in>9</in>
+      <in>56</in>
+      <in>94</in>
+      <invasive>51</invasive>
+      <invasive>121</invasive>
+      <is>16</is>
+      <is>75</is>
+      <is>79</is>
+      <is>106</is>
+      <major>3</major>
+      <makers>114</makers>
+      <management>83</management>
+      <methods_>31</methods_>
+      <model>50</model>
+      <models>84</models>
+      <more>73</more>
+      <native>101</native>
+      <non-target>27</non-target>
+      <occur>55</occur>
+      <of>48</of>
+      <of>67</of>
+      <of>97</of>
+      <of>120</of>
+      <one>71</one>
+      <or>72</or>
+      <origin_>44</origin_>
+      <particularly>8</particularly>
+      <plants.>104</plants.>
+      <plants.>123</plants.>
+      <policy>113</policy>
+      <potential>98</potential>
+      <problem_>23</problem_>
+      <produces>25</produces>
+      <production_>7</production_>
+      <provide>81</provide>
+      <reduce>21</reduce>
+      <resource>109</resource>
+      <risks>99</risks>
+      <scientists>111</scientists>
+      <self-sustaining>18</self-sustaining>
+      <serious>35</serious>
+      <species_>53</species_>
+      <temperate>61</temperate>
+      <than>29</than>
+      <the>10</the>
+      <the>38</the>
+      <the>43</the>
+      <the>88</the>
+      <the>95</the>
+      <the>117</the>
+      <this>22</this>
+      <to>5</to>
+      <to>20</to>
+      <to>37</to>
+      <to>60</to>
+      <to>62</to>
+      <to>80</to>
+      <to>92</to>
+      <to>100</to>
+      <tropical>59</tropical>
+      <tropical>89</tropical>
+      <tropical>122</tropical>
+      <twenty>49</twenty>
+      <use>86</use>
+      <using>70</using>
+      <valuable>108</valuable>
+      <way>19</way>
+      <weed>52</weed>
+      <weed>69</weed>
+      <which>32</which>
+      <which>54</which>
+      <with>116</with>
+      <world_>90</world_>
+      <world.>12</world.>
+   </abstract_inverted_index>
+   <abstract_inverted_index_v3>None</abstract_inverted_index_v3>
+   <apc_list>None</apc_list>
+   <apc_paid>None</apc_paid>
+   <authorships>
+      <affiliations>
+         <institution_ids>https://openalex.org/I859038795</institution_ids>
+         <raw_affiliation_string>Virginia Polytechnic Institute and State University</raw_affiliation_string>
+      </affiliations>
+      <author>
+         <display_name>R. Muniappan</display_name>
+         <id>https://openalex.org/A5058097758</id>
+         <orcid>None</orcid>
+      </author>
+      <author_position>first</author_position>
+      <countries>US</countries>
+      <institutions>
+         <country_code>US</country_code>
+         <display_name>Virginia Tech</display_name>
+         <id>https://openalex.org/I859038795</id>
+         <lineage>https://openalex.org/I859038795</lineage>
+         <ror>https://ror.org/02smfhw86</ror>
+         <type>funder</type>
+      </institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings>Virginia Polytechnic Institute and State University</raw_affiliation_strings>
+      <raw_author_name>Rangaswamy Muniappan</raw_author_name>
+   </authorships>
+   <authorships>
+      <affiliations></affiliations>
+      <author>
+         <display_name>R. Muniappan</display_name>
+         <id>https://openalex.org/A5058097758</id>
+         <orcid>None</orcid>
+      </author>
+      <author_position>middle</author_position>
+      <countries></countries>
+      <institutions></institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings></raw_affiliation_strings>
+      <raw_author_name>Rangaswamy Muniappan</raw_author_name>
+   </authorships>
+   <authorships>
+      <affiliations></affiliations>
+      <author>
+         <display_name>R. Muniappan</display_name>
+         <id>https://openalex.org/A5058097758</id>
+         <orcid>None</orcid>
+      </author>
+      <author_position>middle</author_position>
+      <countries></countries>
+      <institutions></institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings></raw_affiliation_strings>
+      <raw_author_name>R. Muniappan</raw_author_name>
+   </authorships>
+   <authorships>
+      <affiliations></affiliations>
+      <author>
+         <display_name>K. Dhileepan</display_name>
+         <id>https://openalex.org/A5010709702</id>
+         <orcid>None</orcid>
+      </author>
+      <author_position>middle</author_position>
+      <countries></countries>
+      <institutions></institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings></raw_affiliation_strings>
+      <raw_author_name>K. Dhileepan</raw_author_name>
+   </authorships>
+   <authorships>
+      <affiliations></affiliations>
+      <author>
+         <display_name>F.A.C. Impson</display_name>
+         <id>https://openalex.org/A5084791776</id>
+         <orcid>https://orcid.org/0000-0002-1218-9993</orcid>
+      </author>
+      <author_position>middle</author_position>
+      <countries></countries>
+      <institutions></institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings></raw_affiliation_strings>
+      <raw_author_name>Fiona Impson</raw_author_name>
+   </authorships>
+   <authorships>
+      <affiliations></affiliations>
+      <author>
+         <display_name>R. Muniappan</display_name>
+         <id>https://openalex.org/A5058097758</id>
+         <orcid>None</orcid>
+      </author>
+      <author_position>middle</author_position>
+      <countries></countries>
+      <institutions></institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings></raw_affiliation_strings>
+      <raw_author_name>R. Muniappan</raw_author_name>
+   </authorships>
+   <authorships>
+      <affiliations></affiliations>
+      <author>
+         <display_name>Martin Hill</display_name>
+         <id>https://openalex.org/A5039258702</id>
+         <orcid>https://orcid.org/0000-0003-0579-5298</orcid>
+      </author>
+      <author_position>middle</author_position>
+      <countries></countries>
+      <institutions></institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings></raw_affiliation_strings>
+      <raw_author_name>M. P. Hill</raw_author_name>
+   </authorships>
+   <authorships>
+      <affiliations></affiliations>
+      <author>
+         <display_name>Shon Schooler</display_name>
+         <id>https://openalex.org/A5083196814</id>
+         <orcid>https://orcid.org/0000-0003-4779-5640</orcid>
+      </author>
+      <author_position>middle</author_position>
+      <countries></countries>
+      <institutions></institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings></raw_affiliation_strings>
+      <raw_author_name>Shon Schooler</raw_author_name>
+   </authorships>
+   <authorships>
+      <affiliations></affiliations>
+      <author>
+         <display_name>H. G. Zimmermann</display_name>
+         <id>https://openalex.org/A5063981221</id>
+         <orcid>None</orcid>
+      </author>
+      <author_position>middle</author_position>
+      <countries></countries>
+      <institutions></institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings></raw_affiliation_strings>
+      <raw_author_name>Helmuth Zimmermann</raw_author_name>
+   </authorships>
+   <authorships>
+      <affiliations></affiliations>
+      <author>
+         <display_name>C. Zachariades</display_name>
+         <id>https://openalex.org/A5082201658</id>
+         <orcid>https://orcid.org/0000-0002-5855-9558</orcid>
+      </author>
+      <author_position>middle</author_position>
+      <countries></countries>
+      <institutions></institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings></raw_affiliation_strings>
+      <raw_author_name>C. Zachariades</raw_author_name>
+   </authorships>
+   <authorships>
+      <affiliations></affiliations>
+      <author>
+         <display_name>Patrick Conant</display_name>
+         <id>https://openalex.org/A5017542004</id>
+         <orcid>None</orcid>
+      </author>
+      <author_position>middle</author_position>
+      <countries></countries>
+      <institutions></institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings></raw_affiliation_strings>
+      <raw_author_name>Patrick Conant</raw_author_name>
+   </authorships>
+   <authorships>
+      <affiliations></affiliations>
+      <author>
+         <display_name>R. Muniappan</display_name>
+         <id>https://openalex.org/A5058097758</id>
+         <orcid>None</orcid>
+      </author>
+      <author_position>middle</author_position>
+      <countries></countries>
+      <institutions></institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings></raw_affiliation_strings>
+      <raw_author_name>R. Muniappan</raw_author_name>
+   </authorships>
+   <authorships>
+      <affiliations></affiliations>
+      <author>
+         <display_name>Julie A. Coetzee</display_name>
+         <id>https://openalex.org/A5040655742</id>
+         <orcid>https://orcid.org/0000-0002-0364-3349</orcid>
+      </author>
+      <author_position>middle</author_position>
+      <countries></countries>
+      <institutions></institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings></raw_affiliation_strings>
+      <raw_author_name>J. A. Coetzee</raw_author_name>
+   </authorships>
+   <authorships>
+      <affiliations></affiliations>
+      <author>
+         <display_name>Michael Day</display_name>
+         <id>https://openalex.org/A5028541784</id>
+         <orcid>https://orcid.org/0000-0001-5856-1685</orcid>
+      </author>
+      <author_position>middle</author_position>
+      <countries></countries>
+      <institutions></institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings></raw_affiliation_strings>
+      <raw_author_name>Michael D. Day</raw_author_name>
+   </authorships>
+   <authorships>
+      <affiliations></affiliations>
+      <author>
+         <display_name>L. S. Kuniata</display_name>
+         <id>https://openalex.org/A5009399381</id>
+         <orcid>None</orcid>
+      </author>
+      <author_position>middle</author_position>
+      <countries></countries>
+      <institutions></institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings></raw_affiliation_strings>
+      <raw_author_name>Lastus S. Kuniata</raw_author_name>
+   </authorships>
+   <authorships>
+      <affiliations></affiliations>
+      <author>
+         <display_name>Tim A. Heard</display_name>
+         <id>https://openalex.org/A5028791504</id>
+         <orcid>https://orcid.org/0000-0003-4975-7314</orcid>
+      </author>
+      <author_position>middle</author_position>
+      <countries></countries>
+      <institutions></institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings></raw_affiliation_strings>
+      <raw_author_name>Tim A. Heard</raw_author_name>
+   </authorships>
+   <authorships>
+      <affiliations></affiliations>
+      <author>
+         <display_name>K. Dhileepan</display_name>
+         <id>https://openalex.org/A5010709702</id>
+         <orcid>None</orcid>
+      </author>
+      <author_position>middle</author_position>
+      <countries></countries>
+      <institutions></institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings></raw_affiliation_strings>
+      <raw_author_name>K. Dhileepan</raw_author_name>
+   </authorships>
+   <authorships>
+      <affiliations></affiliations>
+      <author>
+         <display_name>George P. Markin</display_name>
+         <id>https://openalex.org/A5108663463</id>
+         <orcid>None</orcid>
+      </author>
+      <author_position>middle</author_position>
+      <countries></countries>
+      <institutions></institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings></raw_affiliation_strings>
+      <raw_author_name>George P. Markin</raw_author_name>
+   </authorships>
+   <authorships>
+      <affiliations></affiliations>
+      <author>
+         <display_name>Peter Neuenschwander</display_name>
+         <id>https://openalex.org/A5073395806</id>
+         <orcid>https://orcid.org/0000-0003-0580-0376</orcid>
+      </author>
+      <author_position>middle</author_position>
+      <countries></countries>
+      <institutions></institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings></raw_affiliation_strings>
+      <raw_author_name>Peter Neuenschwander</raw_author_name>
+   </authorships>
+   <authorships>
+      <affiliations></affiliations>
+      <author>
+         <display_name>Rieks D. van Klinken</display_name>
+         <id>https://openalex.org/A5051080789</id>
+         <orcid>https://orcid.org/0000-0002-7578-8977</orcid>
+      </author>
+      <author_position>middle</author_position>
+      <countries></countries>
+      <institutions></institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings></raw_affiliation_strings>
+      <raw_author_name>Rieks D. van Klinken</raw_author_name>
+   </authorships>
+   <authorships>
+      <affiliations></affiliations>
+      <author>
+         <display_name>Mic H. Julien</display_name>
+         <id>https://openalex.org/A5114145607</id>
+         <orcid>None</orcid>
+      </author>
+      <author_position>middle</author_position>
+      <countries></countries>
+      <institutions></institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings></raw_affiliation_strings>
+      <raw_author_name>Mic H. Julien</raw_author_name>
+   </authorships>
+   <authorships>
+      <affiliations></affiliations>
+      <author>
+         <display_name>Terry Olckers</display_name>
+         <id>https://openalex.org/A5112302108</id>
+         <orcid>None</orcid>
+      </author>
+      <author_position>middle</author_position>
+      <countries></countries>
+      <institutions></institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings></raw_affiliation_strings>
+      <raw_author_name>Terry Olckers</raw_author_name>
+   </authorships>
+   <authorships>
+      <affiliations></affiliations>
+      <author>
+         <display_name>Joachim Sauerborn</display_name>
+         <id>https://openalex.org/A5074762714</id>
+         <orcid>https://orcid.org/0000-0002-4334-946X</orcid>
+      </author>
+      <author_position>middle</author_position>
+      <countries></countries>
+      <institutions></institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings></raw_affiliation_strings>
+      <raw_author_name>Joachim Sauerborn</raw_author_name>
+   </authorships>
+   <authorships>
+      <affiliations></affiliations>
+      <author>
+         <display_name>Jebomoni Rabindra</display_name>
+         <id>https://openalex.org/A5066564409</id>
+         <orcid>None</orcid>
+      </author>
+      <author_position>middle</author_position>
+      <countries></countries>
+      <institutions></institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings></raw_affiliation_strings>
+      <raw_author_name>Jebomoni Rabindra</raw_author_name>
+   </authorships>
+   <authorships>
+      <affiliations></affiliations>
+      <author>
+         <display_name>Fen D. Beed</display_name>
+         <id>https://openalex.org/A5005143167</id>
+         <orcid>None</orcid>
+      </author>
+      <author_position>middle</author_position>
+      <countries></countries>
+      <institutions></institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings></raw_affiliation_strings>
+      <raw_author_name>Fen Beed</raw_author_name>
+   </authorships>
+   <authorships>
+      <affiliations></affiliations>
+      <author>
+         <display_name>W. Orapa</display_name>
+         <id>https://openalex.org/A5068829382</id>
+         <orcid>https://orcid.org/0000-0003-3526-6012</orcid>
+      </author>
+      <author_position>last</author_position>
+      <countries></countries>
+      <institutions></institutions>
+      <is_corresponding>False</is_corresponding>
+      <raw_affiliation_strings></raw_affiliation_strings>
+      <raw_author_name>Warea Orapa</raw_author_name>
+   </authorships>
+   <best_oa_location>
+      <is_accepted>False</is_accepted>
+      <is_oa>True</is_oa>
+      <is_published>False</is_published>
+      <landing_page_url>http://www.bioone.org/doi/10.1653/024.092.0428</landing_page_url>
+      <license>None</license>
+      <license_id>None</license_id>
+      <pdf_url>https://bioone.org/journals/florida-entomologist/volume-92/issue-4/024.092.0428/Biological-Control-of-Tropical-Weeds-Using-Arthropods/10.1653/024.092.0428.pdf</pdf_url>
+      <source>
+         <display_name>BioOne Complete (BioOne)</display_name>
+         <host_organization>https://openalex.org/I4210111627</host_organization>
+         <host_organization_lineage>https://openalex.org/I4210111627</host_organization_lineage>
+         <host_organization_lineage_names>BioOne</host_organization_lineage_names>
+         <host_organization_name>BioOne</host_organization_name>
+         <id>https://openalex.org/S4306402358</id>
+         <is_core>False</is_core>
+         <is_in_doaj>False</is_in_doaj>
+         <is_indexed_in_scopus>False</is_indexed_in_scopus>
+         <is_oa>True</is_oa>
+         <issn>None</issn>
+         <issn_l>None</issn_l>
+         <type>repository</type>
+      </source>
+      <version>submittedVersion</version>
+   </best_oa_location>
+   <biblio>
+      <first_page>None</first_page>
+      <issue>None</issue>
+      <last_page>None</last_page>
+      <volume>None</volume>
+   </biblio>
+   <citation_normalized_percentile>
+      <is_in_top_10_percent>True</is_in_top_10_percent>
+      <is_in_top_1_percent>False</is_in_top_1_percent>
+      <value>0.983871</value>
+   </citation_normalized_percentile>
+   <cited_by_api_url>https://api.openalex.org/works?filter=cites:W1491972046</cited_by_api_url>
+   <cited_by_count>202</cited_by_count>
+   <cited_by_percentile_year>
+      <max>99</max>
+      <min>98</min>
+   </cited_by_percentile_year>
+   <concepts>
+      <display_name>Temperate climate</display_name>
+      <id>https://openalex.org/C81461190</id>
+      <level>2</level>
+      <score>0.6763822</score>
+      <wikidata>https://www.wikidata.org/wiki/Q167466</wikidata>
+   </concepts>
+   <concepts>
+      <display_name>Biological pest control</display_name>
+      <id>https://openalex.org/C104727253</id>
+      <level>2</level>
+      <score>0.6141034</score>
+      <wikidata>https://www.wikidata.org/wiki/Q116890</wikidata>
+   </concepts>
+   <concepts>
+      <display_name>Ecology</display_name>
+      <id>https://openalex.org/C18903297</id>
+      <level>1</level>
+      <score>0.6073762</score>
+      <wikidata>https://www.wikidata.org/wiki/Q7150</wikidata>
+   </concepts>
+   <concepts>
+      <display_name>Weed control</display_name>
+      <id>https://openalex.org/C147273371</id>
+      <level>2</level>
+      <score>0.54918706</score>
+      <wikidata>https://www.wikidata.org/wiki/Q2739141</wikidata>
+   </concepts>
+   <concepts>
+      <display_name>Weed</display_name>
+      <id>https://openalex.org/C2775891814</id>
+      <level>2</level>
+      <score>0.547185</score>
+      <wikidata>https://www.wikidata.org/wiki/Q101879</wikidata>
+   </concepts>
+   <concepts>
+      <display_name>Agriculture</display_name>
+      <id>https://openalex.org/C118518473</id>
+      <level>2</level>
+      <score>0.5221401</score>
+      <wikidata>https://www.wikidata.org/wiki/Q11451</wikidata>
+   </concepts>
+   <concepts>
+      <display_name>Resource (disambiguation)</display_name>
+      <id>https://openalex.org/C206345919</id>
+      <level>2</level>
+      <score>0.5185971</score>
+      <wikidata>https://www.wikidata.org/wiki/Q20380951</wikidata>
+   </concepts>
+   <concepts>
+      <display_name>Habitat</display_name>
+      <id>https://openalex.org/C185933670</id>
+      <level>2</level>
+      <score>0.5010283</score>
+      <wikidata>https://www.wikidata.org/wiki/Q52105</wikidata>
+   </concepts>
+   <concepts>
+      <display_name>Tropical agriculture</display_name>
+      <id>https://openalex.org/C63651461</id>
+      <level>2</level>
+      <score>0.48261365</score>
+      <wikidata>https://www.wikidata.org/wiki/Q13106250</wikidata>
+   </concepts>
+   <concepts>
+      <display_name>Invasive species</display_name>
+      <id>https://openalex.org/C136020623</id>
+      <level>2</level>
+      <score>0.4764098</score>
+      <wikidata>https://www.wikidata.org/wiki/Q183368</wikidata>
+   </concepts>
+   <concepts>
+      <display_name>Agroforestry</display_name>
+      <id>https://openalex.org/C54286561</id>
+      <level>1</level>
+      <score>0.4544029</score>
+      <wikidata>https://www.wikidata.org/wiki/Q397350</wikidata>
+   </concepts>
+   <concepts>
+      <display_name>Biology</display_name>
+      <id>https://openalex.org/C86803240</id>
+      <level>0</level>
+      <score>0.43231195</score>
+      <wikidata>https://www.wikidata.org/wiki/Q420</wikidata>
+   </concepts>
+   <concepts>
+      <display_name>Constraint (computer-aided design)</display_name>
+      <id>https://openalex.org/C2776036281</id>
+      <level>2</level>
+      <score>0.42962217</score>
+      <wikidata>https://www.wikidata.org/wiki/Q48769818</wikidata>
+   </concepts>
+   <concepts>
+      <display_name>Environmental resource management</display_name>
+      <id>https://openalex.org/C107826830</id>
+      <level>1</level>
+      <score>0.38244435</score>
+      <wikidata>https://www.wikidata.org/wiki/Q929380</wikidata>
+   </concepts>
+   <concepts>
+      <display_name>Geography</display_name>
+      <id>https://openalex.org/C205649164</id>
+      <level>0</level>
+      <score>0.35732287</score>
+      <wikidata>https://www.wikidata.org/wiki/Q1071</wikidata>
+   </concepts>
+   <concepts>
+      <display_name>Environmental science</display_name>
+      <id>https://openalex.org/C39432304</id>
+      <level>0</level>
+      <score>0.22571081</score>
+      <wikidata>https://www.wikidata.org/wiki/Q188847</wikidata>
+   </concepts>
+   <concepts>
+      <display_name>Engineering</display_name>
+      <id>https://openalex.org/C127413603</id>
+      <level>0</level>
+      <score>0.1319916</score>
+      <wikidata>https://www.wikidata.org/wiki/Q11023</wikidata>
+   </concepts>
+   <concepts>
+      <display_name>Computer science</display_name>
+      <id>https://openalex.org/C41008148</id>
+      <level>0</level>
+      <score>0.10930219</score>
+      <wikidata>https://www.wikidata.org/wiki/Q21198</wikidata>
+   </concepts>
+   <concepts>
+      <display_name>Computer network</display_name>
+      <id>https://openalex.org/C31258907</id>
+      <level>1</level>
+      <score>0.0</score>
+      <wikidata>https://www.wikidata.org/wiki/Q1301371</wikidata>
+   </concepts>
+   <concepts>
+      <display_name>Mechanical engineering</display_name>
+      <id>https://openalex.org/C78519656</id>
+      <level>1</level>
+      <score>0.0</score>
+      <wikidata>https://www.wikidata.org/wiki/Q101333</wikidata>
+   </concepts>
+   <corresponding_author_ids></corresponding_author_ids>
+   <corresponding_institution_ids></corresponding_institution_ids>
+   <countries_distinct_count>1</countries_distinct_count>
+   <counts_by_year>
+      <cited_by_count>4</cited_by_count>
+      <year>2025</year>
+   </counts_by_year>
+   <counts_by_year>
+      <cited_by_count>12</cited_by_count>
+      <year>2024</year>
+   </counts_by_year>
+   <counts_by_year>
+      <cited_by_count>10</cited_by_count>
+      <year>2023</year>
+   </counts_by_year>
+   <counts_by_year>
+      <cited_by_count>10</cited_by_count>
+      <year>2022</year>
+   </counts_by_year>
+   <counts_by_year>
+      <cited_by_count>15</cited_by_count>
+      <year>2021</year>
+   </counts_by_year>
+   <counts_by_year>
+      <cited_by_count>20</cited_by_count>
+      <year>2020</year>
+   </counts_by_year>
+   <counts_by_year>
+      <cited_by_count>7</cited_by_count>
+      <year>2019</year>
+   </counts_by_year>
+   <counts_by_year>
+      <cited_by_count>10</cited_by_count>
+      <year>2018</year>
+   </counts_by_year>
+   <counts_by_year>
+      <cited_by_count>13</cited_by_count>
+      <year>2017</year>
+   </counts_by_year>
+   <counts_by_year>
+      <cited_by_count>9</cited_by_count>
+      <year>2016</year>
+   </counts_by_year>
+   <counts_by_year>
+      <cited_by_count>9</cited_by_count>
+      <year>2015</year>
+   </counts_by_year>
+   <counts_by_year>
+      <cited_by_count>19</cited_by_count>
+      <year>2014</year>
+   </counts_by_year>
+   <counts_by_year>
+      <cited_by_count>15</cited_by_count>
+      <year>2013</year>
+   </counts_by_year>
+   <counts_by_year>
+      <cited_by_count>9</cited_by_count>
+      <year>2012</year>
+   </counts_by_year>
+   <created_date>2016-06-24</created_date>
+   <datasets></datasets>
+   <display_name>Biological Control of Tropical Weeds Using Arthropods</display_name>
+   <doi>https://doi.org/10.1017/cbo9780511576348</doi>
+   <fulltext_origin>pdf</fulltext_origin>
+   <fwci>8.682</fwci>
+   <grants></grants>
+   <has_fulltext>True</has_fulltext>
+   <id>https://openalex.org/W1491972046</id>
+   <ids>
+      <doi>https://doi.org/10.1017/cbo9780511576348</doi>
+      <mag>1491972046</mag>
+      <openalex>https://openalex.org/W1491972046</openalex>
+   </ids>
+   <indexed_in>crossref</indexed_in>
+   <institution_assertions></institution_assertions>
+   <institutions_distinct_count>1</institutions_distinct_count>
+   <is_paratext>False</is_paratext>
+   <is_retracted>False</is_retracted>
+   <keywords>
+      <display_name>Tropical Agriculture</display_name>
+      <id>https://openalex.org/keywords/tropical-agriculture</id>
+      <score>0.48261365</score>
+   </keywords>
+   <language>en</language>
+   <locations>
+      <is_accepted>False</is_accepted>
+      <is_oa>False</is_oa>
+      <is_published>False</is_published>
+      <landing_page_url>https://doi.org/10.1017/cbo9780511576348</landing_page_url>
+      <license>None</license>
+      <license_id>None</license_id>
+      <pdf_url>None</pdf_url>
+      <source>
+         <display_name>Cambridge University Press eBooks</display_name>
+         <host_organization>https://openalex.org/P4310311721</host_organization>
+         <host_organization_lineage>https://openalex.org/P4310311721</host_organization_lineage>
+         <host_organization_lineage>https://openalex.org/P4310311702</host_organization_lineage>
+         <host_organization_lineage_names>Cambridge University Press</host_organization_lineage_names>
+         <host_organization_lineage_names>University of Cambridge</host_organization_lineage_names>
+         <host_organization_name>Cambridge University Press</host_organization_name>
+         <id>https://openalex.org/S4306462995</id>
+         <is_core>False</is_core>
+         <is_in_doaj>False</is_in_doaj>
+         <is_indexed_in_scopus>False</is_indexed_in_scopus>
+         <is_oa>False</is_oa>
+         <issn>None</issn>
+         <issn_l>None</issn_l>
+         <type>ebook platform</type>
+      </source>
+      <version>None</version>
+   </locations>
+   <locations>
+      <is_accepted>False</is_accepted>
+      <is_oa>True</is_oa>
+      <is_published>False</is_published>
+      <landing_page_url>http://www.bioone.org/doi/10.1653/024.092.0428</landing_page_url>
+      <license>None</license>
+      <license_id>None</license_id>
+      <pdf_url>https://bioone.org/journals/florida-entomologist/volume-92/issue-4/024.092.0428/Biological-Control-of-Tropical-Weeds-Using-Arthropods/10.1653/024.092.0428.pdf</pdf_url>
+      <source>
+         <display_name>BioOne Complete (BioOne)</display_name>
+         <host_organization>https://openalex.org/I4210111627</host_organization>
+         <host_organization_lineage>https://openalex.org/I4210111627</host_organization_lineage>
+         <host_organization_lineage_names>BioOne</host_organization_lineage_names>
+         <host_organization_name>BioOne</host_organization_name>
+         <id>https://openalex.org/S4306402358</id>
+         <is_core>False</is_core>
+         <is_in_doaj>False</is_in_doaj>
+         <is_indexed_in_scopus>False</is_indexed_in_scopus>
+         <is_oa>True</is_oa>
+         <issn>None</issn>
+         <issn_l>None</issn_l>
+         <type>repository</type>
+      </source>
+      <version>submittedVersion</version>
+   </locations>
+   <locations_count>2</locations_count>
+   <mesh></mesh>
+   <open_access>
+      <any_repository_has_fulltext>True</any_repository_has_fulltext>
+      <is_oa>False</is_oa>
+      <oa_status>closed</oa_status>
+      <oa_url>https://bioone.org/journals/florida-entomologist/volume-92/issue-4/024.092.0428/Biological-Control-of-Tropical-Weeds-Using-Arthropods/10.1653/024.092.0428.pdf</oa_url>
+   </open_access>
+   <primary_location>
+      <is_accepted>False</is_accepted>
+      <is_oa>False</is_oa>
+      <is_published>False</is_published>
+      <landing_page_url>https://doi.org/10.1017/cbo9780511576348</landing_page_url>
+      <license>None</license>
+      <license_id>None</license_id>
+      <pdf_url>None</pdf_url>
+      <source>
+         <display_name>Cambridge University Press eBooks</display_name>
+         <host_organization>https://openalex.org/P4310311721</host_organization>
+         <host_organization_lineage>https://openalex.org/P4310311721</host_organization_lineage>
+         <host_organization_lineage>https://openalex.org/P4310311702</host_organization_lineage>
+         <host_organization_lineage_names>Cambridge University Press</host_organization_lineage_names>
+         <host_organization_lineage_names>University of Cambridge</host_organization_lineage_names>
+         <host_organization_name>Cambridge University Press</host_organization_name>
+         <id>https://openalex.org/S4306462995</id>
+         <is_core>False</is_core>
+         <is_in_doaj>False</is_in_doaj>
+         <is_indexed_in_scopus>False</is_indexed_in_scopus>
+         <is_oa>False</is_oa>
+         <issn>None</issn>
+         <issn_l>None</issn_l>
+         <type>ebook platform</type>
+      </source>
+      <version>None</version>
+   </primary_location>
+   <primary_topic>
+      <display_name>Biological Control of Invasive Species</display_name>
+      <domain>
+         <display_name>Life Sciences</display_name>
+         <id>https://openalex.org/domains/1</id>
+      </domain>
+      <field>
+         <display_name>Agricultural and Biological Sciences</display_name>
+         <id>https://openalex.org/fields/11</id>
+      </field>
+      <id>https://openalex.org/T12701</id>
+      <score>0.9914</score>
+      <subfield>
+         <display_name>Insect Science</display_name>
+         <id>https://openalex.org/subfields/1109</id>
+      </subfield>
+   </primary_topic>
+   <publication_date>2009-03-05</publication_date>
+   <publication_year>2009</publication_year>
+   <referenced_works>https://openalex.org/W2237448273</referenced_works>
+   <referenced_works>https://openalex.org/W2243164710</referenced_works>
+   <referenced_works>https://openalex.org/W3151220924</referenced_works>
+   <referenced_works_count>3</referenced_works_count>
+   <related_works>https://openalex.org/W2951976834</related_works>
+   <related_works>https://openalex.org/W2885167654</related_works>
+   <related_works>https://openalex.org/W2789278452</related_works>
+   <related_works>https://openalex.org/W2558099664</related_works>
+   <related_works>https://openalex.org/W2197489198</related_works>
+   <related_works>https://openalex.org/W2129428176</related_works>
+   <related_works>https://openalex.org/W2035471795</related_works>
+   <related_works>https://openalex.org/W2023789566</related_works>
+   <related_works>https://openalex.org/W2004341074</related_works>
+   <related_works>https://openalex.org/W1984096273</related_works>
+   <relevance_score>86.22798</relevance_score>
+   <sustainable_development_goals>
+      <display_name>Zero hunger</display_name>
+      <id>https://metadata.un.org/sdg/2</id>
+      <score>0.71</score>
+   </sustainable_development_goals>
+   <title>Biological Control of Tropical Weeds Using Arthropods</title>
+   <topics>
+      <display_name>Biological Control of Invasive Species</display_name>
+      <domain>
+         <display_name>Life Sciences</display_name>
+         <id>https://openalex.org/domains/1</id>
+      </domain>
+      <field>
+         <display_name>Agricultural and Biological Sciences</display_name>
+         <id>https://openalex.org/fields/11</id>
+      </field>
+      <id>https://openalex.org/T12701</id>
+      <score>0.9914</score>
+      <subfield>
+         <display_name>Insect Science</display_name>
+         <id>https://openalex.org/subfields/1109</id>
+      </subfield>
+   </topics>
+   <type>book</type>
+   <type_crossref>book</type_crossref>
+   <updated_date>2025-06-03T23:08:00.051689</updated_date>
+   <versions></versions>
+</root>
