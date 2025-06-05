@@ -4,8 +4,8 @@ import os
 from tqdm import tqdm
 
 import arxiv as arxiv_wrapper
-from pygetpapers.download_tools import DownloadTools
-from pygetpapers.pgexceptions import PygetpapersError
+from pygetpapers1.download_tools import DownloadTools
+from pygetpapers1.pgexceptions import pygetpapers1Error
 
 PDFDOWNLOADED = "pdfdownloaded"
 
@@ -47,7 +47,7 @@ ARXIV_RESULT = "arxiv-result"
 
 ARXIV = "arxiv"
 
-from pygetpapers.repositoryinterface import RepositoryInterface
+from pygetpapers1.repositoryinterface import RepositoryInterface
 
 class Arxiv(RepositoryInterface):
     """arxiv.org repository
@@ -83,7 +83,7 @@ https://arxiv.org/help/bulk_data. Please be considerate and also include a rate 
         :return: dictionary of results retrieved from arxiv
         :rtype: dict
         """
-        logging.info("Making request to Arxiv through pygetpapers")
+        logging.info("Making request to Arxiv through pygetpapers1")
         search = arxiv_wrapper.Search(
             query=query, max_results=cutoff_size, sort_by=arxiv_wrapper.SortCriterion.Relevance
         )

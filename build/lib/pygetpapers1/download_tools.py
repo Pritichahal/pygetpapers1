@@ -20,14 +20,14 @@ from lxml import etree
 from pathlib import Path
 
 try:
-    from pygetpapers.pgexceptions import PygetpapersError
+    from pygetpapers1.pgexceptions import pygetpapers1Error
 except ImportError:
-    from pgexceptions import PygetpapersError
+    from pgexceptions import pygetpapers1Error
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 
-PYGETPAPERS = "pygetpapers"
+pygetpapers1 = "pygetpapers1"
 
 NEW_RESULTS = "new_results"
 
@@ -202,7 +202,7 @@ class DownloadTools:
 
     @staticmethod
     def removing_added_attributes_from_dictionary(resultant_dict):
-        """pygetpapers adds some attributes like "pdfdownloaded" to track the progress of downloads for a particular corpus. When we are exporting data to a csv file, we dont want these terms to appear.
+        """pygetpapers1 adds some attributes like "pdfdownloaded" to track the progress of downloads for a particular corpus. When we are exporting data to a csv file, we dont want these terms to appear.
         So this funtion makes a copy of the given dictionary, removes the added attributes from dictionaries inside the given dict and returns the new dictionary.
 
 
@@ -526,7 +526,7 @@ class DownloadTools:
         :type name_result_file_for_paper: string
         """
         logging.info("Making csv files for metadata at %s", os.getcwd())
-        df = self._get_dataframe_without_additional_pygetpapers_attributes(
+        df = self._get_dataframe_without_additional_pygetpapers1_attributes(
             metadata_dictionary
         )
         self.write_or_append_to_csv(df, name_main_result_file)
@@ -598,7 +598,7 @@ class DownloadTools:
         """
         logging.info("Making html files for metadata at %s", os.getcwd())
         htmlurl = os.path.join(os.getcwd(), name_main_result_file)
-        df = self._get_dataframe_without_additional_pygetpapers_attributes(
+        df = self._get_dataframe_without_additional_pygetpapers1_attributes(
             metadata_dictionary
         )
         self.make_html_from_dataframe(df, htmlurl)
@@ -606,7 +606,7 @@ class DownloadTools:
             name_result_file_for_paper, metadata_dictionary, makehtml=True
         )
 
-    def _get_dataframe_without_additional_pygetpapers_attributes(
+    def _get_dataframe_without_additional_pygetpapers1_attributes(
         self, metadata_dictionary
     ):
         dict_to_use = self.removing_added_attributes_from_dictionary(
@@ -682,7 +682,7 @@ class DownloadTools:
     def get_version():
         """Gets version from the configuration file
 
-        :return: version of pygetpapers as described in the configuration file
+        :return: version of pygetpapers1 as described in the configuration file
         :rtype: string
         """
         with open(
@@ -691,7 +691,7 @@ class DownloadTools:
             config_file = file_handler.read()
         config = configparser.RawConfigParser(allow_no_value=True)
         config.read_string(config_file)
-        version = config.get("pygetpapers", "version")
+        version = config.get("pygetpapers1", "version")
         return version
 
     @staticmethod
@@ -791,7 +791,7 @@ class DownloadTools:
             if metadata_file.endswith(RESULTS_JSON):
                 meta_data_results_file_path = file
         if not meta_data_results_file_path:
-            raise PygetpapersError(
+            raise pygetpapers1Error(
                 "Corpus not existing in this directory. Please rerun the query without --update or --restart"
             )
         return meta_data_results_file_path

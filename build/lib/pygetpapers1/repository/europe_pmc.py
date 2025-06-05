@@ -7,9 +7,9 @@ from numpy import True_
 import pandas as pd
 from tqdm import tqdm
 
-from pygetpapers.download_tools import DownloadTools
-from pygetpapers.pgexceptions import PygetpapersError
-from pygetpapers.repositoryinterface import RepositoryInterface
+from pygetpapers1.download_tools import DownloadTools
+from pygetpapers1.pgexceptions import pygetpapers1Error
+from pygetpapers1.repositoryinterface import RepositoryInterface
 
 FULLTEXT_XML = "fulltext.xml"
 FULLTEXT_PDF = "fulltext.pdf"

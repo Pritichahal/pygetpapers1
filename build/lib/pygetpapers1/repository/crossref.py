@@ -3,9 +3,9 @@ import os
 
 from habanero import Crossref
 
-from pygetpapers.download_tools import DownloadTools
-from pygetpapers.pgexceptions import PygetpapersError
-from pygetpapers.repositoryinterface import RepositoryInterface
+from pygetpapers1.download_tools import DownloadTools
+from pygetpapers1.pgexceptions import pygetpapers1Error
+from pygetpapers1.repositoryinterface import RepositoryInterface
 crossref_file_name = "crossref_result"
 
 DOI = "DOI"
@@ -64,7 +64,7 @@ class CrossRef(RepositoryInterface):
         :type makehtml: bool
         :param makexml: whether to get xml 
         :type makexml: bool
-        :param update: dictionary containing results from previous run of pygetpapers
+        :param update: dictionary containing results from previous run of pygetpapers1
         :type update: dict
         :return: dictionary of results retrieved from crossref
         :rtype: dict

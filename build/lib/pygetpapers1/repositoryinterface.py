@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 import logging
-from pygetpapers.download_tools import DownloadTools
+from pygetpapers1.download_tools import DownloadTools
 
 TOTAL_HITS = "total_hits"
 NEW_RESULTS = "new_results"

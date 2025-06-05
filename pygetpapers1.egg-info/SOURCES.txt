@@ -3,10 +3,11 @@ MANIFEST.in
 README.md
 setup.py
 pygetpapers1/__init__.py
+pygetpapers1/config.ini
 pygetpapers1/download_tools.py
 pygetpapers1/extensions.py
 pygetpapers1/pgexceptions.py
-pygetpapers1/pygetpapers.py
+pygetpapers1/pygetpapers1.py
 pygetpapers1/repositoryinterface.py
 pygetpapers1.egg-info/PKG-INFO
 pygetpapers1.egg-info/SOURCES.txt

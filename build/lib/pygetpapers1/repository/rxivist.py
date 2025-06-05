@@ -5,8 +5,8 @@ import time
 
 import requests
 
-from pygetpapers.download_tools import DownloadTools
-from pygetpapers.repositoryinterface import RepositoryInterface
+from pygetpapers1.download_tools import DownloadTools
+from pygetpapers1.repositoryinterface import RepositoryInterface
 
 TOTAL_HITS = "total_hits"
 

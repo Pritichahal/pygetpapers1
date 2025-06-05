@@ -1,13 +1,13 @@
 """
-pygetpapers module
+pygetpapers1 module
 """
-from pygetpapers.download_tools import DownloadTools
-from pygetpapers.repository.europe_pmc import EuropePmc
-from pygetpapers.repository.crossref import CrossRef
-from pygetpapers.repository.arxiv import Arxiv
-from pygetpapers.repository.rxiv import Rxiv
-from pygetpapers.repository.rxivist import Rxivist
-from pygetpapers.pygetpapers import Pygetpapers
+from pygetpapers1.download_tools import DownloadTools
+from pygetpapers1.repository.europe_pmc import EuropePmc
+from pygetpapers1.repository.crossref import CrossRef
+from pygetpapers1.repository.arxiv import Arxiv
+from pygetpapers1.repository.rxiv import Rxiv
+from pygetpapers1.repository.rxivist import Rxivist
+from pygetpapers1.pygetpapers1 import pygetpapers1
 
 __author__ = "Ayush Garg"
 __email__ = "ayush@science.org.in"

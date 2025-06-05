@@ -1,8 +1,8 @@
 import logging
 
 
-class PygetpapersError(Exception):
-    """This error is raised from classes in pygetpapers package.
+class pygetpapers1Error(Exception):
+    """This error is raised from classes in pygetpapers1 package.
     """
 
     def __init__(self, message):

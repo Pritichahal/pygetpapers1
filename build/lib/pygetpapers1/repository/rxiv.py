@@ -6,9 +6,9 @@ import time
 import requests
 from tqdm import tqdm
 
-from pygetpapers.download_tools import DownloadTools
-from pygetpapers.pgexceptions import PygetpapersError
-from pygetpapers.repositoryinterface import RepositoryInterface
+from pygetpapers1.download_tools import DownloadTools
+from pygetpapers1.pgexceptions import pygetpapers1Error
+from pygetpapers1.repositoryinterface import RepositoryInterface
 
 TOTAL_HITS = "total_hits"
 NEW_RESULTS = "new_results"
@@ -152,7 +152,7 @@ class Rxiv(RepositoryInterface):
     ):
         
         if update and type(query) == int:
-            raise PygetpapersError("Update will not work if date not provided")
+            raise pygetpapers1Error("Update will not work if date not provided")
 
         result_dict = self.rxiv(
             query,
