@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/petermr/pygetpapers1/main/resources/pygetpapers1_logo.png" alt="pygetpapers1" height="50%" width="50%">
+  <img src="https://raw.githubusercontent.com/petermr/pygetpapers/main/resources/pygetpapers_logo.png" alt="pygetpapers" height="50%" width="50%">
   <h2 align="center">Research Papers right from python</h2>
 </p>
 
@@ -16,13 +16,13 @@
 
 <br>
 <p>
-<a href="https://github.com/petermr/pygetpapers1/actions"><img src="https://img.shields.io/pypi/dm/pygetpapers1" alt="img" width="180px" height="25px"></a>
-<a href="https://github.com/petermr/pygetpapers1/issues"><img src="https://img.shields.io/github/issues-raw/petermr/pygetpapers1?color=blue&style=for-the-badge" alt="img" width="180px" height="30px"></a>
-<a href="https://github.com/petermr/pygetpapers1/issues?q=is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/petermr/pygetpapers1?color=blue&style=for-the-badge" alt="img"  width="180px" height="30px"></a>
-<a href="https://github.com/petermr/pygetpapers1/commits/main"><img src="https://img.shields.io/github/last-commit/petermr/pygetpapers1.svg?color=blue&style=for-the-badge" alt="img" width="180px" height="30px"></a>
-<a href="https://github.com/petermr/pygetpapers1/stargazers"><img src="https://img.shields.io/github/stars/petermr/pygetpapers1.svg?style=social&label=Star&maxAge=2592000" alt="img" width="120px" height="30px"></a>
-<a href='https://pygetpapers1.readthedocs.io/en/latest/?badge=latest'>
-    <img src='https://readthedocs.org/projects/pygetpapers1/badge/?version=latest' alt='Documentation Status' height="25px" />
+<a href="https://github.com/petermr/pygetpapers/actions"><img src="https://img.shields.io/pypi/dm/pygetpapers" alt="img" width="180px" height="25px"></a>
+<a href="https://github.com/petermr/pygetpapers/issues"><img src="https://img.shields.io/github/issues-raw/petermr/pygetpapers?color=blue&style=for-the-badge" alt="img" width="180px" height="30px"></a>
+<a href="https://github.com/petermr/pygetpapers/issues?q=is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/petermr/pygetpapers?color=blue&style=for-the-badge" alt="img"  width="180px" height="30px"></a>
+<a href="https://github.com/petermr/pygetpapers/commits/main"><img src="https://img.shields.io/github/last-commit/petermr/pygetpapers.svg?color=blue&style=for-the-badge" alt="img" width="180px" height="30px"></a>
+<a href="https://github.com/petermr/pygetpapers/stargazers"><img src="https://img.shields.io/github/stars/petermr/pygetpapers.svg?style=social&label=Star&maxAge=2592000" alt="img" width="120px" height="30px"></a>
+<a href='https://pygetpapers.readthedocs.io/en/latest/?badge=latest'>
+    <img src='https://readthedocs.org/projects/pygetpapers/badge/?version=latest' alt='Documentation Status' height="25px" />
 </a>
 <a style="border-width:0" href="https://doi.org/10.21105/joss.04451">
   <img src="https://joss.theoj.org/papers/10.21105/joss.04451/status.svg" alt="DOI badge" >
@@ -31,11 +31,11 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=petermr&repo=pygetpapers1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=petermr&repo=pygetpapers">
 </p>
 
 <p>
-The developer documentation has been setup at <a href="https://pygetpapers1.readthedocs.io/en/latest/#">readthedocs</a>
+The developer documentation has been setup at <a href="https://pygetpapers.readthedocs.io/en/latest/#">readthedocs</a>
 </p>
 
 ## History
@@ -57,7 +57,7 @@ The main code is located in the pygetpapers1 directory. All the supporting modul
 ## Architecture
 
 <p align="center">
-<img src="https://github.com/petermr/pygetpapers1/raw/main/resources/archietecture.png" >
+<img src="https://github.com/petermr/pygetpapers/raw/main/resources/archietecture.png" >
 </p>
 
 ## About the author and community
@@ -90,7 +90,7 @@ Check out https://pip.pypa.io/en/stable/installing/ if difficulties installing p
 
 - Ensure git cli is installed and is available in path. Check out (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-- Enter the command: `pip install git+https://github.com/petermr/pygetpapers1.git`
+- Enter the command: `pip install https://github.com/Pritichahal/pygetpapers1.git`
 
 - Ensure pygetpapers1 has been installed by reopening the terminal and typing the command `pygetpapers1`
 
@@ -113,7 +113,7 @@ usage: pygetpapers1 [-h] [--config CONFIG] [-v] [-q QUERY] [-o OUTPUT]
                    [--terms TERMS] [--notterms NOTTERMS] [--api API]
                    [--filter FILTER]
 
-Welcome to pygetpapers1 version 0.0.9.3. -h or --help for help
+Welcome to pygetpapers1 version 1.2.8. -h or --help for help
 
 optional arguments:
   -h, --help            show this help message and exit
@@ -508,7 +508,7 @@ INFO: Total Hits are 43397
 
 You can also use this feature to download papers by using the PMC Ids. You can feed the `.txt` file with PMC ids comman-separated. Make sure to give a large enough hit number to download all the papers specified in the text file. 
 
-Example text file can be found, [here](resources/PMCID_pygetpapers1_text.txt)
+Example text file can be found, [here](resources/PMCID_pygetpapers_text.txt)
 INPUT:
 ```
 pygetpapers1 --terms C:\Users\shweata\PMCID_pygetpapers1_text.txt -k 100 -o "PMCID_test"
