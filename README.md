@@ -1,28 +1,28 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/petermr/pygetpapers/main/resources/pygetpapers_logo.png" alt="pygetpapers" height="50%" width="50%">
+  <img src="https://raw.githubusercontent.com/petermr/pygetpapers1/main/resources/pygetpapers1_logo.png" alt="pygetpapers1" height="50%" width="50%">
   <h2 align="center">Research Papers right from python</h2>
 </p>
 
-# What is pygetpapers
+# What is pygetpapers1
 
 
-- pygetpapers is a tool to assist text miners. It makes requests to open access scientific text repositories, analyses the hits, and systematically downloads the articles without further interaction.
+- pygetpapers1 is a tool to assist text miners. It makes requests to open access scientific text repositories, analyses the hits, and systematically downloads the articles without further interaction.
 
-- Comes with the packages `pygetpapers` and `downloadtools` which provide various functions to download, process and save research papers and their metadata.
+- Comes with the packages `pygetpapers1` and `downloadtools` which provide various functions to download, process and save research papers and their metadata.
 
 - The main medium of its interaction with users is through a command-line interface.
 
-- `pygetpapers` has a modular design which makes maintenance easy and simple. This also allows adding support for more repositories simple.
+- `pygetpapers1` has a modular design which makes maintenance easy and simple. This also allows adding support for more repositories simple.
 
 <br>
 <p>
-<a href="https://github.com/petermr/pygetpapers/actions"><img src="https://img.shields.io/pypi/dm/pygetpapers" alt="img" width="180px" height="25px"></a>
-<a href="https://github.com/petermr/pygetpapers/issues"><img src="https://img.shields.io/github/issues-raw/petermr/pygetpapers?color=blue&style=for-the-badge" alt="img" width="180px" height="30px"></a>
-<a href="https://github.com/petermr/pygetpapers/issues?q=is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/petermr/pygetpapers?color=blue&style=for-the-badge" alt="img"  width="180px" height="30px"></a>
-<a href="https://github.com/petermr/pygetpapers/commits/main"><img src="https://img.shields.io/github/last-commit/petermr/pygetpapers.svg?color=blue&style=for-the-badge" alt="img" width="180px" height="30px"></a>
-<a href="https://github.com/petermr/pygetpapers/stargazers"><img src="https://img.shields.io/github/stars/petermr/pygetpapers.svg?style=social&label=Star&maxAge=2592000" alt="img" width="120px" height="30px"></a>
-<a href='https://pygetpapers.readthedocs.io/en/latest/?badge=latest'>
-    <img src='https://readthedocs.org/projects/pygetpapers/badge/?version=latest' alt='Documentation Status' height="25px" />
+<a href="https://github.com/petermr/pygetpapers1/actions"><img src="https://img.shields.io/pypi/dm/pygetpapers1" alt="img" width="180px" height="25px"></a>
+<a href="https://github.com/petermr/pygetpapers1/issues"><img src="https://img.shields.io/github/issues-raw/petermr/pygetpapers1?color=blue&style=for-the-badge" alt="img" width="180px" height="30px"></a>
+<a href="https://github.com/petermr/pygetpapers1/issues?q=is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/petermr/pygetpapers1?color=blue&style=for-the-badge" alt="img"  width="180px" height="30px"></a>
+<a href="https://github.com/petermr/pygetpapers1/commits/main"><img src="https://img.shields.io/github/last-commit/petermr/pygetpapers1.svg?color=blue&style=for-the-badge" alt="img" width="180px" height="30px"></a>
+<a href="https://github.com/petermr/pygetpapers1/stargazers"><img src="https://img.shields.io/github/stars/petermr/pygetpapers1.svg?style=social&label=Star&maxAge=2592000" alt="img" width="120px" height="30px"></a>
+<a href='https://pygetpapers1.readthedocs.io/en/latest/?badge=latest'>
+    <img src='https://readthedocs.org/projects/pygetpapers1/badge/?version=latest' alt='Documentation Status' height="25px" />
 </a>
 <a style="border-width:0" href="https://doi.org/10.21105/joss.04451">
   <img src="https://joss.theoj.org/papers/10.21105/joss.04451/status.svg" alt="DOI badge" >
@@ -31,20 +31,20 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=petermr&repo=pygetpapers">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=petermr&repo=pygetpapers1">
 </p>
 
 <p>
-The developer documentation has been setup at <a href="https://pygetpapers.readthedocs.io/en/latest/#">readthedocs</a>
+The developer documentation has been setup at <a href="https://pygetpapers1.readthedocs.io/en/latest/#">readthedocs</a>
 </p>
 
 ## History
 
 `getpapers` is a tool written by Rik Smith-Unna funded by ContentMine at https://github.com/ContentMine/getpapers. The OpenVirus community requires a Python version and Ayush Garg has written an implementation from scratch, with some enhancements.
 
-## Formats supported by pygetpapers
+## Formats supported by pygetpapers1
 
-- pygetpapers gives fulltexts in xml and pdf format. 
+- pygetpapers1 gives fulltexts in xml and pdf format. 
 - The metadata for papers can be saved in many formats including JSON, CSV, HTML.
 - Queries can be saved in form of an ini configuration file. 
 - The additional files for papers can also be downloaded. References and citations for papers are given in XML format. 
@@ -52,17 +52,17 @@ The developer documentation has been setup at <a href="https://pygetpapers.readt
 
 ## Repository Structure
 
-The main code is located in the pygetpapers directory. All the supporting modules for different repositories are described in the pygetpapers/repository directory.
+The main code is located in the pygetpapers1 directory. All the supporting modules for different repositories are described in the pygetpapers1/repository directory.
 
 ## Architecture
 
 <p align="center">
-<img src="https://github.com/petermr/pygetpapers/raw/main/resources/archietecture.png" >
+<img src="https://github.com/petermr/pygetpapers1/raw/main/resources/archietecture.png" >
 </p>
 
 ## About the author and community
 
-`pygetpapers` has been developed by Ayush Garg under the dear guidance of the OpenVirus community and Peter Murray Rust. Ayush is currently a high school student who believes that the world can only truly progress when knowledge is open and accessible by all.
+`pygetpapers1` has been developed by Ayush Garg under the dear guidance of the OpenVirus community and Peter Murray Rust. Ayush is currently a high school student who believes that the world can only truly progress when knowledge is open and accessible by all.
 
 Testers from OpenVirus have given a lot of useful feedback to Ayush without which this project would not have been possible.
 
@@ -78,9 +78,9 @@ Check out https://pip.pypa.io/en/stable/installing/ if difficulties installing p
 
 ## Method one (recommended):
 
-- Enter the command: `pip install pygetpapers`
+- Enter the command: `pip install pygetpapers1`
 
-- Ensure pygetpapers has been installed by reopening the terminal and typing the command `pygetpapers`
+- Ensure pygetpapers1 has been installed by reopening the terminal and typing the command `pygetpapers1`
 
 - You should see a help message come up.
 
@@ -90,22 +90,22 @@ Check out https://pip.pypa.io/en/stable/installing/ if difficulties installing p
 
 - Ensure git cli is installed and is available in path. Check out (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-- Enter the command: `pip install git+https://github.com/petermr/pygetpapers.git`
+- Enter the command: `pip install git+https://github.com/petermr/pygetpapers1.git`
 
-- Ensure pygetpapers has been installed by reopening the terminal and typing the command `pygetpapers`
+- Ensure pygetpapers1 has been installed by reopening the terminal and typing the command `pygetpapers1`
 
 - You should see a help message come up.
 
 <hr>
 
 # Usage
-`pygetpapers` is a commandline tool. You can ask for help by running:
+`pygetpapers1` is a commandline tool. You can ask for help by running:
 ```
-pygetpapers --help
+pygetpapers1 --help
 ```
 
 ```
-usage: pygetpapers [-h] [--config CONFIG] [-v] [-q QUERY] [-o OUTPUT]
+usage: pygetpapers1 [-h] [--config CONFIG] [-v] [-q QUERY] [-o OUTPUT]
                    [--save_query] [-x] [-p] [-s] [-z] [--references REFERENCES]
                    [-n] [--citations CITATIONS] [-l LOGLEVEL] [-f LOGFILE]
                    [-k LIMIT] [-r] [-u] [--onlyquery] [-c] [--makehtml]
@@ -113,11 +113,11 @@ usage: pygetpapers [-h] [--config CONFIG] [-v] [-q QUERY] [-o OUTPUT]
                    [--terms TERMS] [--notterms NOTTERMS] [--api API]
                    [--filter FILTER]
 
-Welcome to Pygetpapers version 0.0.9.3. -h or --help for help
+Welcome to pygetpapers1 version 0.0.9.3. -h or --help for help
 
 optional arguments:
   -h, --help            show this help message and exit
-  --config CONFIG       config file path to read query for pygetpapers
+  --config CONFIG       config file path to read query for pygetpapers1
   -v, --version         output the version number
   -q QUERY, --query QUERY
                         query string transmitted to repository API. Eg.
@@ -187,7 +187,7 @@ optional arguments:
   --filter FILTER       [C] filter by key value pair (only crossref supported)
 ```
 
-Queries are build using `-q` flag. The query format can be found at http://europepmc.org/docs/EBI_Europe_PMC_Web_Service_Reference.pdf A condensed guide can be found at https://github.com/petermr/pygetpapers/wiki/query-format
+Queries are build using `-q` flag. The query format can be found at http://europepmc.org/docs/EBI_Europe_PMC_Web_Service_Reference.pdf A condensed guide can be found at https://github.com/petermr/pygetpapers1/wiki/query-format
 
 ## Repository-specific flags
 To convey the repository specificity, we've used the first letter of the repository in square brackets in its description. 
@@ -199,9 +199,9 @@ A CTree is a subdirectory of a CProject that deals with a single paper.
 <img src = "resources/PMC_folder_inside.png">
 
 # Tutorial
-`pygetpapers` was on version `0.0.9.3` when the tutorials were documented. 
+`pygetpapers1` was on version `0.0.9.3` when the tutorials were documented. 
 
-`pygetpapers` supports multiple APIs including eupmc, crossref,arxiv,biorxiv,medrxiv,rxivist-bio,rxivist-med. By default, it queries EPMC. You can specify the API by using `--api` flag.  
+`pygetpapers1` supports multiple APIs including eupmc, crossref,arxiv,biorxiv,medrxiv,rxivist-bio,rxivist-med. By default, it queries EPMC. You can specify the API by using `--api` flag.  
 
 You can also follow this [colab notebook](https://colab.research.google.com/drive/18SJ9H4Hm_7Y2rJENXdEhmJMS59Ojm2SK?usp=sharing) as part of the tutorial. 
 
@@ -220,10 +220,10 @@ You can also follow this [colab notebook](https://colab.research.google.com/driv
 ### Example Query
 Let's break down the following query:   
 ```
-pygetpapers -q "METHOD: invasive plant species" -k 10 -o "invasive_plant_species_test" -c --makehtml -x --save_query
+pygetpapers1 -q "METHOD: invasive plant species" -k 10 -o "invasive_plant_species_test" -c --makehtml -x --save_query
 ```
 
-|Flag|What it does|In this case `pygetpapers`...|
+|Flag|What it does|In this case `pygetpapers1`...|
 |---|---|---|
 |`-q`|specifies the query|queries for 'invasive plant species' in METHODS section|
 |`-k`|number of hits (default 100)|limits hits to 10|
@@ -234,7 +234,7 @@ pygetpapers -q "METHOD: invasive plant species" -k 10 -o "invasive_plant_species
 |`--save_query`|saves the given query in a `config.ini` in output directory|saves query to [`saved_config.ini`](resources/invasive_plant_species_test/saved_config.ini)|
 
 
-`pygetpapers`, by default, writes metadata to a JSON file within:
+`pygetpapers1`, by default, writes metadata to a JSON file within:
 - individual paper directory for corresponding paper (`epmc_result.json`)
 - working directory for all downloaded papers ([`epmc_results.json`](resources/invasiv_plant_species_test/eupmc_results.json))
 
@@ -254,7 +254,7 @@ INFO: Saving XML files to C:\Users\shweata\invasive_plant_species_test\*\fulltex
 If you are just scoping the number of hits for a given query, you can use `-n` flag as shown below. 
 
    ```
-   pygetpapers -n -q "essential oil"
+   pygetpapers1 -n -q "essential oil"
    ```
 OUTPUT:
 ```
@@ -269,7 +269,7 @@ If let's say you have a corpus of a 30 papers on 'essential oil' (like before) a
 To update your Cproject, you would give it the `-o` flag the already existing CProject name. Additionally, you should also add `--update ` flag. 
 INPUT:
 ```
-pygetpapers -q "invasive plant species" -k 10 -x -o lantana_test_5 --update
+pygetpapers1 -q "invasive plant species" -k 10 -x -o lantana_test_5 --update
 ```
 OUTPUT:
 ```
@@ -295,7 +295,7 @@ By using `--update` command you can be sure that you don't overwrite the existin
 Let's start off by forcefully interrupting the download.   
 INPUT:
 ```
-pygetpapers -q "pinus" -k 10 -o pinus_10 -x
+pygetpapers1 -q "pinus" -k 10 -o pinus_10 -x
 ```
 OUTPUT:
 ```
@@ -343,7 +343,7 @@ C:.
 To download the rest, we can use `--restart` flag.   
 INPUT
 ```
-pygetpapers -q "pinus" -o pinus_10 --restart -x
+pygetpapers1 -q "pinus" -o pinus_10 --restart -x
 ```
 OUTPUT:
 ```
@@ -395,17 +395,17 @@ C:.
         eupmc_result.json
         fulltext.xml
 ```
- Under the hood, `pygetpapers` looks for `eupmc_results.json`, reads it and resumes the download. 
+ Under the hood, `pygetpapers1` looks for `eupmc_results.json`, reads it and resumes the download. 
 
 You could also use `--restart` to download the fulltext or metadata in different format other than the ones that you've already downloaded. For example, if I want all the fulltext PDFs of the 10 papers on `pinus`, I can run:  
 
 INPUT: 
 ```
-pygetpapers -q "pinus" -o pinus_10 --restart -p --makehtml
+pygetpapers1 -q "pinus" -o pinus_10 --restart -p --makehtml
 ```
 OUTPUT:
 ```
->pygetpapers -q "pinus" -o pinus_10 --restart -p --makehtml
+>pygetpapers1 -q "pinus" -o pinus_10 --restart -p --makehtml
 100%|█████████████████████████████████████████████| 10/10 [03:26<00:00, 20.68s/it]
 ```
 Now, if we take a look at the CProject:
@@ -441,7 +441,7 @@ We find that each paper now has fulltext PDFs and metadata in HTML.
 - `--references` and `--citations` flags can be used to download the references and citations respectively.  
 - It also requires source for references (AGR,CBA,CTX,ETH,HIR,MED,PAT,PMC,PPR)
 
-   `pygetpapers -q "lantana" -k 10 -o "test" -c -x --citation PMC`
+   `pygetpapers1 -q "lantana" -k 10 -o "test" -c -x --citation PMC`
 
 ### Downloading only the metadata
 If you are looking to download just the metadata in the supported formats`--onlyquery` is the flag you use. It saves the metadata in the output directory. 
@@ -449,7 +449,7 @@ If you are looking to download just the metadata in the supported formats`--only
 You can use `--restart` feature to download the fulltexts for these papers. 
 INPUT:
 ```
-pygetpapers --onlyquery -q "lantana" -k 10 -o "lantana_test" -c
+pygetpapers1 --onlyquery -q "lantana" -k 10 -o "lantana_test" -c
 ```
 OUTPUT:
 ```
@@ -470,19 +470,19 @@ WARNING: Keywords not found for paper 9
 By using `--startdate` and `--enddate` you can specify the date range within which the papers you want to download were first published. 
 
 ```
-pygetpapers -q "METHOD:essential oil" --startdate "2020-01-02" --enddate "2021-09-09"
+pygetpapers1 -q "METHOD:essential oil" --startdate "2020-01-02" --enddate "2021-09-09"
 ```
 
 ### Saving query for later use
 To save a query for later use, you can use `--save_query`. What it does is that it saves the query in a `.ini` file in the output directory. 
 ```
-pygetpapers -q "lantana" -k 10 -o "lantana_query_config"--save_query
+pygetpapers1 -q "lantana" -k 10 -o "lantana_query_config"--save_query
 ```
-[Here](resources/invasive_plant_species_test/saved_config.ini) is an example config file `pygetpapers` outputs
+[Here](resources/invasive_plant_species_test/saved_config.ini) is an example config file `pygetpapers1` outputs
 ### Feed query using `config.ini` file
 Using can use the `config.ini` file you created using `--save_query`, you re-run the query. To do so, you will give `--config` flag the absolute path of the `saved_config.ini` file.
 
-`pygetpapers --config "C:\Users\shweata\lantana_query_config\saved_config.ini"`
+`pygetpapers1 --config "C:\Users\shweata\lantana_query_config\saved_config.ini"`
 
 ### Querying using a term list
 #### `--terms` flag
@@ -494,11 +494,11 @@ If your query is complex with multiple ORs, you can use `--terms` feature. To do
 
 INPUT:
 ```
-pygetpapers -q "essential oil" --terms C:\Users\shweata\essential_oil_terms.txt -k 10 -o "terms_test_essential_oil" -x  
+pygetpapers1 -q "essential oil" --terms C:\Users\shweata\essential_oil_terms.txt -k 10 -o "terms_test_essential_oil" -x  
 ```
 OUTPUT:
 ```
-C:\Users\shweata>pygetpapers -q "essential oil" --terms C:\Users\shweata\essential_oil_terms.txt -k 10 -o "terms_test_essential_oil"
+C:\Users\shweata>pygetpapers1 -q "essential oil" --terms C:\Users\shweata\essential_oil_terms.txt -k 10 -o "terms_test_essential_oil"
 INFO: Final query is (essential oil AND (antioxidant OR  antibacterial OR  antifungal OR  antiseptic OR  antitrichomonal agent))
 INFO: Total Hits are 43397
 0it [00:00, ?it/s]WARNING: Author list not found for paper 9
@@ -508,10 +508,10 @@ INFO: Total Hits are 43397
 
 You can also use this feature to download papers by using the PMC Ids. You can feed the `.txt` file with PMC ids comman-separated. Make sure to give a large enough hit number to download all the papers specified in the text file. 
 
-Example text file can be found, [here](resources/PMCID_pygetpapers_text.txt)
+Example text file can be found, [here](resources/PMCID_pygetpapers1_text.txt)
 INPUT:
 ```
-pygetpapers --terms C:\Users\shweata\PMCID_pygetpapers_text.txt -k 100 -o "PMCID_test"
+pygetpapers1 --terms C:\Users\shweata\PMCID_pygetpapers1_text.txt -k 100 -o "PMCID_test"
 ```
 
 OUTPUT:
@@ -528,7 +528,7 @@ Excluded papers that have certain keywords might also be of interest for you. Fo
 
 INPUT:
 ```
-pygetpapers -q "essential oil" -k 10 -o essential_oil_not_terms_test --notterms C:\Users\shweata\not_terms_test.txt
+pygetpapers1 -q "essential oil" -k 10 -o essential_oil_not_terms_test --notterms C:\Users\shweata\not_terms_test.txt
 ```
 OUTPUT:
 ```
@@ -539,7 +539,7 @@ INFO: Total Hits are 165557
 ```
 The number of papers are reduced by a some proportion. For comparision, "essential oil" query gives us 193922 hits.  
 ```
-C:\Users\shweata>pygetpapers -q "essential oil" -n
+C:\Users\shweata>pygetpapers1 -q "essential oil" -n
 INFO: Final query is essential oil
 INFO: Total number of hits for the query are 193922
 ```
@@ -554,7 +554,7 @@ We will take the same example as before.
     ```
     - Run the following command from the directory in which the text file exists
     ```
-    amidict -v --dictionary pygetpapers_terms --directory pygetpapers_terms --input pygetpapers_terms.txt create --informat list --outformats xml
+    amidict -v --dictionary pygetpapers1_terms --directory pygetpapers1_terms --input pygetpapers1_terms.txt create --informat list --outformats xml
     ```
 That's it! You've now created a simple `ami-dictionary`. There are ways of creating dictionaries from Wikidata as well. You can learn more about how to do that in this [Wiki](https://github.com/petermr/openVirus/wiki/Dictionaries:-creation-from-Wikidata) page. 
 - You can also use [standard dictionaries](https://github.com/petermr/dictionary/) that are available. 
@@ -562,7 +562,7 @@ That's it! You've now created a simple `ami-dictionary`. There are ways of creat
 
 INPUT:
 ```
-pygetpapers -q "essential oil" --terms C:\Users\shweata\pygetpapers_terms\pygetpapers_terms.xml -k 10 -o pygetpapers_dictionary_test -x
+pygetpapers1 -q "essential oil" --terms C:\Users\shweata\pygetpapers1_terms\pygetpapers1_terms.xml -k 10 -o pygetpapers1_dictionary_test -x
 ```
 OUTPUT:
 ```
@@ -571,7 +571,7 @@ INFO: Total Hits are 28365
 0it [00:00, ?it/s]WARNING: Keywords not found for paper 5
 WARNING: Keywords not found for paper 7
 1it [00:00, ?it/s]
-INFO: Saving XML files to C:\Users\shweata\pygetpapers_dictionary_test\*\fulltext.xml
+INFO: Saving XML files to C:\Users\shweata\pygetpapers1_dictionary_test\*\fulltext.xml
 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [00:36<00:00,  3.67s/it]
 ```
 
@@ -580,14 +580,14 @@ You can specify the log level using the `-l` flag. The default as you've already
 
 INPUT:
 ```
-pygetpapers -q "lantana" -k 10 -o lantana_test_10_2 --loglevel debug -x
+pygetpapers1 -q "lantana" -k 10 -o lantana_test_10_2 --loglevel debug -x
 ```
 ### Log file
 You can also choose to write the log to a `.txt` file in your HOME directory, while simultaneously printing it out. 
 
 INPUT:
 ```
-pygetpapers -q "lantana" -k 10 -o lantana_test_10_4 --loglevel debug -x --logfile test_log.txt
+pygetpapers1 -q "lantana" -k 10 -o lantana_test_10_4 --loglevel debug -x --logfile test_log.txt
 ```
 [Here](resources/test_log.txt) is the log file. 
 ## Crossref
@@ -597,7 +597,7 @@ You can query crossref api for the metadata only.
 - `--terms` and `-q` are also applicable to crossref
 INPUT:
 ```
-pygetpapers --api crossref -q "essential oil" --terms C:\Users\shweata\essential_oil_terms.txt -k 10 -o "terms_test_essential_oil_crossref_3" -x -c --makehtml
+pygetpapers1 --api crossref -q "essential oil" --terms C:\Users\shweata\essential_oil_terms.txt -k 10 -o "terms_test_essential_oil_crossref_3" -x -c --makehtml
 ```
 OUTPUT:
 ```
@@ -637,7 +637,7 @@ C:.
 `--update` works the same as in `EPMC`. You can use this flag to increase the number of papers in a given CProject. 
 INPUT
 ```
-pygetpapers --api crossref -q "essential oil" --terms C:\Users\shweata\essential_oil_terms.txt -k 5 -o "terms_test_essential_oil_crossref_3" -x -c --makehtml --update
+pygetpapers1 --api crossref -q "essential oil" --terms C:\Users\shweata\essential_oil_terms.txt -k 5 -o "terms_test_essential_oil_crossref_3" -x -c --makehtml --update
 ```
 OUTPUT: 
 ```
@@ -673,18 +673,18 @@ We started off with 10 paper folders, and increased the number to 15.
 ### Filter
 
 ## arxiv
-`pygetpapers` allows you to query `arxiv` for full text PDF and metadata in all supported formats.
+`pygetpapers1` allows you to query `arxiv` for full text PDF and metadata in all supported formats.
 ### Sample query
 INPUT
 ```
-pygetpapers --api arxiv -k 10 -o arxiv_test_3 -q "artificial intelligence" -x -p --makehtml -c
+pygetpapers1 --api arxiv -k 10 -o arxiv_test_3 -q "artificial intelligence" -x -p --makehtml -c
 ```
 OUTPUT
 ```
 
 INFO: Final query is artificial intelligence
-INFO: Making request to Arxiv through pygetpapers
-INFO: Got request result from Arxiv through pygetpapers
+INFO: Making request to Arxiv through pygetpapers1
+INFO: Got request result from Arxiv through pygetpapers1
 INFO: Requesting 10 results at offset 0
 INFO: Requesting page of results
 INFO: Got first page; 10 of 10 results available
@@ -704,7 +704,7 @@ You can query `biorxiv` and `medrxiv` for fulltext and metadata (in all supporte
 ### Sample Query - biorxiv
 INPUT:
 ```
-pygetpapers --api biorxiv -k 10 -x --startdate 2021-01-01 -o biorxiv_test_20210831
+pygetpapers1 --api biorxiv -k 10 -x --startdate 2021-01-01 -o biorxiv_test_20210831
 ```
 OUTPUT:
 ```
@@ -719,7 +719,7 @@ INFO: Writing metadata file for the papers at C:\Users\shweata\biorxiv_test_2021
 ### `--update` command
 INPUT
 ```
-pygetpapers --api biorxiv -k 10 -x --startdate 2021-01-01 -o biorxiv_test_20210831 --update
+pygetpapers1 --api biorxiv -k 10 -x --startdate 2021-01-01 -o biorxiv_test_20210831 --update
 ```
 OUTPUT
 ```
@@ -764,7 +764,7 @@ Another caveat here is that you can only retrieve metadata from `rxivist`.
 
 INPUT:
 ```
-pygetpapers --api rxivist -q "biomedicine" -k 10 -c -x -o "biomedicine_rxivist" --makehtml -p
+pygetpapers1 --api rxivist -q "biomedicine" -k 10 -c -x -o "biomedicine_rxivist" --makehtml -p
 ```
 OUTPUT:
 ```
@@ -782,10 +782,10 @@ INFO: Writing metadata file for the papers at C:\Users\shweata\biomedicine_rxivi
 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [00:00<00:00, 751.09it/s]
 ```
 ### Query hits only 
-Like any other repositories under `pygetpapers`, you can use the `-n` flag to get only the hit number
+Like any other repositories under `pygetpapers1`, you can use the `-n` flag to get only the hit number
 INPUT: 
 ```
-C:\Users\shweata>pygetpapers --api rxivist -q "biomedical sciences" -n
+C:\Users\shweata>pygetpapers1 --api rxivist -q "biomedical sciences" -n
 ```
 OUTPUT:
 ```
@@ -798,7 +798,7 @@ INFO: Total number of hits for the query are 62
 
 INPUT: 
 ```
-pygetpapers --api rxivist -q "biomedical sciences" -k 20 -c -x -o "biomedicine_rxivist" --update
+pygetpapers1 --api rxivist -q "biomedical sciences" -k 20 -c -x -o "biomedicine_rxivist" --update
 ```
 OUPUT: 
 ```
@@ -814,7 +814,7 @@ INFO: Wrote metadata file for the query
 INFO: Writing metadata file for the papers at C:\Users\shweata\biomedicine_rxivist
 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [00:00<00:00, 1077.12it/s]
 ```
-## Run `pygetpapers` within the module
+## Run `pygetpapers1` within the module
 
 ```
 def run_command(output=False, query=False, save_query=False, xml=False, pdf=False, supp=False, zip=False, references=False, noexecute=False, citations=False, limit=100, restart=False, update=False, onlyquery=False, makecsv=False, makehtml=False, synonym=False, startdate=False, enddate=False, terms=False, notterms=False, api='europe_pmc', filter=None, loglevel='info', logfile=False, version=False)
@@ -823,21 +823,21 @@ def run_command(output=False, query=False, save_query=False, xml=False, pdf=Fals
 Here's an example script to download 50 papers from EPMC on 'lantana camara'.
 
 ```
-from pygetpapers import Pygetpapers
-pygetpapers_call=Pygetpapers()
-pygetpapers_call.run_command(query='lantana camara',limit=-50 ,output= lantana_camara, xml=True)
+from pygetpapers1 import pygetpapers1
+pygetpapers1_call=pygetpapers1()
+pygetpapers1_call.run_command(query='lantana camara',limit=-50 ,output= lantana_camara, xml=True)
 ```
 
-## Test `pygetpapers` 
-To run automated testing on `pygetpapers`, do the following:
-1) Install `pygetpapers`
-2) Clone into `pygetpapers` repository
+## Test `pygetpapers1` 
+To run automated testing on `pygetpapers1`, do the following:
+1) Install `pygetpapers1`
+2) Clone into `pygetpapers1` repository
 3) Install pytest
 4) Run the command, `pytest`
 
 # Contributions
 
-https://github.com/petermr/pygetpapers/blob/main/resources/CONTRIBUTING.md
+https://github.com/petermr/pygetpapers1/blob/main/resources/CONTRIBUTING.md
 
 # Feature Requests
 
@@ -845,7 +845,7 @@ To request features, please put them in issues
 
 # Legal Implications
 
-If you use`pygetpapers`, you should be careful to understand the law as it applies to their content mining, as they assume full responsibility for their actions when using the software.
+If you use`pygetpapers1`, you should be careful to understand the law as it applies to their content mining, as they assume full responsibility for their actions when using the software.
 
 ## Countries with copyright exceptions for content mining:
 
