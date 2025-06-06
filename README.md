@@ -199,7 +199,7 @@ A CTree is a subdirectory of a CProject that deals with a single paper.
 <img src = "resources/PMC_folder_inside.png">
 
 # Tutorial
-`pygetpapers1` was on version `0.0.9.3` when the tutorials were documented. 
+`pygetpapers1` was on version `1.2.8` when the tutorials were documented. 
 
 `pygetpapers1` supports multiple APIs including eupmc, crossref,arxiv,biorxiv,medrxiv,rxivist-bio,rxivist-med. By default, it queries EPMC. You can specify the API by using `--api` flag.  
 
